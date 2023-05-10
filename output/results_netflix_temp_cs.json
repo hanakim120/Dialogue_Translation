@@ -1,0 +1,2397 @@
+[
+    {
+        "data_index": 0,
+        "source": "Drahá Jondžin, chybíš mi. ",
+        "predicted_target": "친애하는 종진, 네가 그리워요."
+    },
+    {
+        "data_index": 1,
+        "source": "Vzpomínáš, ",
+        "predicted_target": "너 기억해?"
+    },
+    {
+        "data_index": 2,
+        "source": "jak jsem dřív nenáviděla léto? ",
+        "predicted_target": "과거에 나는 여름을 어떻게나 싫어했는지."
+    },
+    {
+        "data_index": 3,
+        "source": "Naštěstí jsem se odstěhovala, než přišlo ještě větší horko. ",
+        "predicted_target": "다행히도 나는 더욱 더 뜨거워지기 전에 이사를 갔습니다."
+    },
+    {
+        "data_index": 4,
+        "source": "Od včerejška třídím svoje fotky, ",
+        "predicted_target": "어제부터 내 사진을 분류하고 있습니다."
+    },
+    {
+        "data_index": 5,
+        "source": "ale trvá to, mám tam samé krásné tváře. ",
+        "predicted_target": "하지만 그것은 계속되고 있습니다. 거기에는 아름다운 얼굴들이 많습니다."
+    },
+    {
+        "data_index": 6,
+        "source": "Začala jsem si představovat, ",
+        "predicted_target": "\"나는 상상하기 시작했다.\""
+    },
+    {
+        "data_index": 7,
+        "source": "že jednoho dne ",
+        "predicted_target": "어느 날"
+    },
+    {
+        "data_index": 8,
+        "source": "otevřeš vstupní dveře a překročíš tento práh. ",
+        "predicted_target": "입구 문을 열고 이 문턱을 넘으세요."
+    },
+    {
+        "data_index": 9,
+        "source": "Co to má být? ",
+        "predicted_target": "이게 무슨 의미인가요?"
+    },
+    {
+        "data_index": 10,
+        "source": "To jsou Čedžun a Sara. To všechno jsou naše fotky. ",
+        "predicted_target": "이것은 체준과 사라입니다. 이 모든 것들은 우리의 사진입니다."
+    },
+    {
+        "data_index": 11,
+        "source": "Hej, ",
+        "predicted_target": "안녕하세요,"
+    },
+    {
+        "data_index": 12,
+        "source": "kdo vlastně jsi? ",
+        "predicted_target": "당신은 실제로 누구인가요?"
+    },
+    {
+        "data_index": 13,
+        "source": "To jsem já, Jondžin. Já. ",
+        "predicted_target": "나야, Jondžin. 나."
+    },
+    {
+        "data_index": 14,
+        "source": "Ty ses vážně vůbec nezměnila. ",
+        "predicted_target": "당신은 정말 아무것도 바뀌지 않았습니다."
+    },
+    {
+        "data_index": 15,
+        "source": "Pořád jsi drzá. ",
+        "predicted_target": "당신은 여전히 건방져요."
+    },
+    {
+        "data_index": 16,
+        "source": "Je slušnost se vyzout, když přijdeš k někomu domů. ",
+        "predicted_target": "누군가의 집에 방문할 때 신발을 벗는 것은 예의입니다."
+    },
+    {
+        "data_index": 17,
+        "source": "Teď mám další důvod, proč tě zabít. ",
+        "predicted_target": "이제 너를 죽이는 또 다른 이유가 있어."
+    },
+    {
+        "data_index": 18,
+        "source": "Měla jsi mě aspoň poznat. ",
+        "predicted_target": "당신은 적어도 나를 알아볼 수 있었을텐데."
+    },
+    {
+        "data_index": 19,
+        "source": "Zabít mě? ",
+        "predicted_target": "\"나를 죽이겠다고?\""
+    },
+    {
+        "data_index": 20,
+        "source": "To že bys dokázala? ",
+        "predicted_target": "네가 그것을 할 수 있을까?"
+    },
+    {
+        "data_index": 21,
+        "source": "Jo, zabiju tě. ",
+        "predicted_target": "조, 내가 너를 죽일 거야."
+    },
+    {
+        "data_index": 22,
+        "source": "Dám do toho všechno. ",
+        "predicted_target": "나는 그것에 모든 것을 줄 것이다."
+    },
+    {
+        "data_index": 23,
+        "source": "Takže si pospěš, Jondžin. ",
+        "predicted_target": "그러니 서둘러, 종진."
+    },
+    {
+        "data_index": 24,
+        "source": "Už jsem tady. ",
+        "predicted_target": "이미 여기 있어요."
+    },
+    {
+        "data_index": 25,
+        "source": "Chceš slyšet, ",
+        "predicted_target": "당신은 \"Chceš slyšet,\"를 한국어로 번역하면 됩니다. 그러나 이것은 완전한 문장이 아니므로, 무엇을 말하고자 하는지에 따라 다른 번역이 필요할 수 있습니다."
+    },
+    {
+        "data_index": 26,
+        "source": "jak jsem se dostala až sem, ",
+        "predicted_target": "여기까지 어떻게 왔는지"
+    },
+    {
+        "data_index": 27,
+        "source": "zatímco sem jdeš? ",
+        "predicted_target": "당신은 어디로 가고 있나요?"
+    },
+    {
+        "data_index": 28,
+        "source": "Podala oficiální hlášení, ",
+        "predicted_target": "공식 보고서를 제출했습니다."
+    },
+    {
+        "data_index": 29,
+        "source": "takže učitelé musí dodržet postup. ",
+        "predicted_target": "그러므로 교사들은 절차를 준수해야 합니다."
+    },
+    {
+        "data_index": 30,
+        "source": "Budu na ni mírný, neboj. ",
+        "predicted_target": "그녀에게 온화할 거야, 걱정 마세요."
+    },
+    {
+        "data_index": 31,
+        "source": "Jo. Zavolám ti. ",
+        "predicted_target": "조. 전화할게요."
+    },
+    {
+        "data_index": 32,
+        "source": "Pak Jondžin. ",
+        "predicted_target": "박 종진."
+    },
+    {
+        "data_index": 33,
+        "source": "- Jo? - Proč trápíš kamarádku? ",
+        "predicted_target": "- 조? - 친구를 괴롭히는 이유가 뭐야?"
+    },
+    {
+        "data_index": 34,
+        "source": "Ať se to neopakuje. ",
+        "predicted_target": "그것이 다시 일어나지 않기를 바랍니다."
+    },
+    {
+        "data_index": 35,
+        "source": "Mámu už máš tady, tak běž. ",
+        "predicted_target": "엄마는 이미 여기 있으니 가세요."
+    },
+    {
+        "data_index": 36,
+        "source": "Není moje kamarádka. ",
+        "predicted_target": "그녀는 내 친구가 아니다."
+    },
+    {
+        "data_index": 37,
+        "source": "Mimochodem, pane? ",
+        "predicted_target": "저기요, 실례합니다?"
+    },
+    {
+        "data_index": 38,
+        "source": "Co máte s mou mámou? ",
+        "predicted_target": "당신은 내 어머니와 무엇을 가지고 있나요?"
+    },
+    {
+        "data_index": 39,
+        "source": "Jsme kamarádi ze střední. ",
+        "predicted_target": "우리는 중학교 친구입니다."
+    },
+    {
+        "data_index": 40,
+        "source": "Aha, tak vy jste mámin poskok? ",
+        "predicted_target": "아하, 그러면 당신은 엄마의 삼림 개구리인가요?"
+    },
+    {
+        "data_index": 41,
+        "source": "Proto jste jí pomohl s rozvodem. ",
+        "predicted_target": "그래서 당신은 그녀의 이혼을 돕게 되었습니다."
+    },
+    {
+        "data_index": 42,
+        "source": "A našel důkazy o tátově nevěře. ",
+        "predicted_target": "아버지의 불신죄에 대한 증거를 발견했다."
+    },
+    {
+        "data_index": 43,
+        "source": "Myslela jsem, že s ní spíte nebo tak. ",
+        "predicted_target": "그녀와 함께 자는 거 아니었나 생각했어요."
+    },
+    {
+        "data_index": 44,
+        "source": "Odcházíme! ",
+        "predicted_target": "우리 떠나요!"
+    },
+    {
+        "data_index": 45,
+        "source": "Musím do práce. Šup, vstávej! ",
+        "predicted_target": "나는 일에 가야 해요. 얼른 일어나세요!"
+    },
+    {
+        "data_index": 46,
+        "source": "Jsi tak trapný. Neměls sem chodit! ",
+        "predicted_target": "당신은 너무 어색해요. 여기 오지 말았어야 했어요!"
+    },
+    {
+        "data_index": 47,
+        "source": "Bude zase dobře, když se usmíří a obejmou. ",
+        "predicted_target": "다시 화해하고 포옹할 때 좋을 것입니다."
+    },
+    {
+        "data_index": 48,
+        "source": "Saro, jdeme. ",
+        "predicted_target": "사로, 가자."
+    },
+    {
+        "data_index": 49,
+        "source": "Přejete si? ",
+        "predicted_target": "원하시나요?"
+    },
+    {
+        "data_index": 50,
+        "source": "Jsem Tongunin třídní učitel. ",
+        "predicted_target": "저는 톤구닌 반 담임 선생님입니다."
+    },
+    {
+        "data_index": 51,
+        "source": "Ahoj. ",
+        "predicted_target": "안녕하세요."
+    },
+    {
+        "data_index": 52,
+        "source": "Ty jsi sem přišla v uniformě? ",
+        "predicted_target": "네가 유니폼을 입고 여기에 왔어?"
+    },
+    {
+        "data_index": 53,
+        "source": "A kvůli nevinnému vtípku jsi zavolala policii? ",
+        "predicted_target": "당신은 무해한 장난 때문에 경찰을 부르셨나요?"
+    },
+    {
+        "data_index": 54,
+        "source": "Volali zástupci ředitele… ",
+        "predicted_target": "\"총괄자 대표들이 이르렀다...\""
+    },
+    {
+        "data_index": 55,
+        "source": "Pak si to s tebou vyřídím. Jdeme! ",
+        "predicted_target": "그건 내가 처리할게. 가자!"
+    },
+    {
+        "data_index": 56,
+        "source": "Pane, vezměte mě taky. ",
+        "predicted_target": "신사, 저도 데려가 주세요."
+    },
+    {
+        "data_index": 57,
+        "source": "Už týden jsem sirotek. ",
+        "predicted_target": "이제 일주일째 나는 고아입니다."
+    },
+    {
+        "data_index": 58,
+        "source": "Rodiče mám v zahraničí. ",
+        "predicted_target": "부모님은 해외에 있습니다."
+    },
+    {
+        "data_index": 59,
+        "source": "- Jeli na golf. - Jo? ",
+        "predicted_target": "- 골프를 탔어요. - 네?"
+    },
+    {
+        "data_index": 60,
+        "source": "Tak jsi mi měl zavolat. ",
+        "predicted_target": "당신은 나에게 전화해야 했습니다."
+    },
+    {
+        "data_index": 61,
+        "source": "Vezmu si i jeho. ",
+        "predicted_target": "나는 그를 가져갈 것이다."
+    },
+    {
+        "data_index": 62,
+        "source": "Jasně. ",
+        "predicted_target": "분명합니다."
+    },
+    {
+        "data_index": 63,
+        "source": "Už jsem si říkal, proč jsi ještě tady. ",
+        "predicted_target": "\"이미 여기 왜 있는지 생각해 봤어.\""
+    },
+    {
+        "data_index": 64,
+        "source": "Co doma jíš? ",
+        "predicted_target": "당신은 집에서 무엇을 먹나요?"
+    },
+    {
+        "data_index": 65,
+        "source": "- Mám hospodyni. - Vážně? ",
+        "predicted_target": "\"저는 하녀가 있어요.\" - \"정말요?\""
+    },
+    {
+        "data_index": 66,
+        "source": "Víš, že dnešek je důležitý. ",
+        "predicted_target": "당신은 오늘이 중요하다는 것을 알고 있습니까?"
+    },
+    {
+        "data_index": 67,
+        "source": "Dneska jsi mě velmi zklamala. ",
+        "predicted_target": "오늘 너무 실망했어."
+    },
+    {
+        "data_index": 68,
+        "source": "Nenapadlo mě, kde skončím. ",
+        "predicted_target": "나는 어디에 끝나게 될지 생각하지 못했다."
+    },
+    {
+        "data_index": 69,
+        "source": "Právě proto jsem zklamaná. ",
+        "predicted_target": "그래서 나는 실망했다."
+    },
+    {
+        "data_index": 70,
+        "source": "Nezvládlas ani takovou nulu. ",
+        "predicted_target": "당신은 그런 제로조차 처리하지 못했습니다."
+    },
+    {
+        "data_index": 71,
+        "source": "Neříkala jsem, ať se stýkáš jen s Čedžunem? ",
+        "predicted_target": "\"제가 체준과만 만나라고 말한 적이 있나요?\""
+    },
+    {
+        "data_index": 72,
+        "source": "A Sarou, jestli se nudíš. ",
+        "predicted_target": "사로우, 지루하다면."
+    },
+    {
+        "data_index": 73,
+        "source": "Šaman ti řekl, ",
+        "predicted_target": "샤먼이 너에게 말했다."
+    },
+    {
+        "data_index": 74,
+        "source": "ať se vyhýbáš lidem s „O“ ve jméně, přinesou ti smůlu. ",
+        "predicted_target": "\"O\"가 이름에 있는 사람들은 피하라, 그들은 운을 가져다준다."
+    },
+    {
+        "data_index": 75,
+        "source": "Son Mjongo a Čche Hjedžong. O nich mluvím! ",
+        "predicted_target": "손 몽고와 체 혜정. 그들에 대해 이야기하고 있어요!"
+    },
+    {
+        "data_index": 76,
+        "source": "Pojď dovnitř. Jdeme pozdě. ",
+        "predicted_target": "안으로 들어와. 우리 늦었어."
+    },
+    {
+        "data_index": 77,
+        "source": "MUN TONGUN STŘEDNÍ ŠKOLA SONGHAN ",
+        "predicted_target": "문통운 중학교 송한"
+    },
+    {
+        "data_index": 78,
+        "source": "Přichází Tongun! ",
+        "predicted_target": "통운이 온다!"
+    },
+    {
+        "data_index": 79,
+        "source": "Ta samá Tongun, kterou vidíme každý den! ",
+        "predicted_target": "매일 볼 수 있는 같은 통운!"
+    },
+    {
+        "data_index": 80,
+        "source": "Vítej, Tongun. ",
+        "predicted_target": "안녕하세요, Tongun."
+    },
+    {
+        "data_index": 81,
+        "source": "Omlouvám se, že jsem tě šikanovala. ",
+        "predicted_target": "\"미안해, 내가 너를 괴롭혔어.\""
+    },
+    {
+        "data_index": 82,
+        "source": "Chci se ti omluvit. Už se nebudeš zlobit? ",
+        "predicted_target": "제가 사과하고 싶습니다. 이젠 화내지 않으실 거죠?"
+    },
+    {
+        "data_index": 83,
+        "source": "Nemuselas kvůli tomu volat poldy. Vyděsila jsi nás. ",
+        "predicted_target": "당신은 경찰을 부르지 않아도 됩니다. 우리를 놀라게했습니다."
+    },
+    {
+        "data_index": 84,
+        "source": "Když už spolu mluvíme, Tongun, ",
+        "predicted_target": "우리가 이미 이야기하고 있다면, Tongun,"
+    },
+    {
+        "data_index": 85,
+        "source": "můžeš od teď kontrolovat, ",
+        "predicted_target": "이제부터 당신은 검사할 수 있습니다."
+    },
+    {
+        "data_index": 86,
+        "source": "jestli mám horkou žehličku? ",
+        "predicted_target": "\"만약 나에게 뜨거운 다리미가 있나요?\""
+    },
+    {
+        "data_index": 87,
+        "source": "Pusťte mě! Nechte mě! ",
+        "predicted_target": "나를 놓아주세요! 나를 자유롭게 해주세요!"
+    },
+    {
+        "data_index": 88,
+        "source": "Tohle je trestný čin! Pusťte mě! ",
+        "predicted_target": "이것은 범죄입니다! 저를 놓아주세요!"
+    },
+    {
+        "data_index": 89,
+        "source": "Prosím tě, je to jenom službička, jaký trestný čin? ",
+        "predicted_target": "제발, 그것은 단지 작은 일이에요. 어떤 범죄인가요?"
+    },
+    {
+        "data_index": 90,
+        "source": "Omluvila se. ",
+        "predicted_target": "사과했습니다."
+    },
+    {
+        "data_index": 91,
+        "source": "Jenom zkusíš, jestli je už horká. ",
+        "predicted_target": "그냥 따뜻한지 확인해보세요."
+    },
+    {
+        "data_index": 92,
+        "source": "Je dost horká? ",
+        "predicted_target": "너무 더워?"
+    },
+    {
+        "data_index": 93,
+        "source": "Myslím, že akorát. ",
+        "predicted_target": "\"그냥 그렇게 생각해요.\""
+    },
+    {
+        "data_index": 94,
+        "source": "Tak ukaž. ",
+        "predicted_target": "그러면 보여주세요."
+    },
+    {
+        "data_index": 95,
+        "source": "Pomozte mi někdo! Prosím, pomozte mi někdo! ",
+        "predicted_target": "도와주세요! 누군가 도와주세요!"
+    },
+    {
+        "data_index": 96,
+        "source": "Hele, šetři dechem. ",
+        "predicted_target": "\"흐음, 숨을 아끼세요.\""
+    },
+    {
+        "data_index": 97,
+        "source": "Klidně si ječ, ale nikdo to nezjistí. ",
+        "predicted_target": "조용히 소리질러봐, 그러나 아무도 알아차리지 않을 거야."
+    },
+    {
+        "data_index": 98,
+        "source": "Nikdo tě nezachrání. ",
+        "predicted_target": "아무도 너를 구하지 않을 것이다."
+    },
+    {
+        "data_index": 99,
+        "source": "Tělocvikář nám dal klíče! ",
+        "predicted_target": "체육 교사가 우리에게 열쇠를 주었습니다!"
+    },
+    {
+        "data_index": 100,
+        "source": "Proč mi to děláte? ",
+        "predicted_target": "왜 그러세요?"
+    },
+    {
+        "data_index": 101,
+        "source": "Proč mi to proboha děláte? ",
+        "predicted_target": "왜 이런 일을 하시는 건가요?"
+    },
+    {
+        "data_index": 102,
+        "source": "Tohle mě už nebaví. ",
+        "predicted_target": "이제 이것은 지루해졌어."
+    },
+    {
+        "data_index": 103,
+        "source": "Proč se pořád ptáte? ",
+        "predicted_target": "왜 계속 묻나요?"
+    },
+    {
+        "data_index": 104,
+        "source": "Protože mně se nic nestane ",
+        "predicted_target": "나에게 아무 일도 일어나지 않기 때문에"
+    },
+    {
+        "data_index": 105,
+        "source": "a pro vás se nic nezmění. ",
+        "predicted_target": "당신에게는 아무것도 바뀌지 않습니다."
+    },
+    {
+        "data_index": 106,
+        "source": "Koukni se na sebe. ",
+        "predicted_target": "서로를 바라봐."
+    },
+    {
+        "data_index": 107,
+        "source": "Takový povyk na policii, ale stejně jsi zase tady. ",
+        "predicted_target": "경찰에게 그렇게 큰 소리를 쳤는데도 여전히 너는 여기 있구나."
+    },
+    {
+        "data_index": 108,
+        "source": "Změnilo se něco? ",
+        "predicted_target": "무언가 바뀌었나요?"
+    },
+    {
+        "data_index": 109,
+        "source": "Chci říct, že tebe nikdo nezachrání, Tongun. ",
+        "predicted_target": "나는 네가 구원될 수 없다는 것을 말하고 싶어, 톤군."
+    },
+    {
+        "data_index": 110,
+        "source": "Ani policie, ani škola, ani tvoji rodiče. ",
+        "predicted_target": "경찰도, 학교도, 네 부모님들도 아니다."
+    },
+    {
+        "data_index": 111,
+        "source": "Jak se říká takovému člověku? ",
+        "predicted_target": "그런 사람을 어떻게 부르나요?"
+    },
+    {
+        "data_index": 112,
+        "source": "Vyděděnec. ",
+        "predicted_target": "버림받은 자."
+    },
+    {
+        "data_index": 113,
+        "source": "Bydlíš v motelu. ",
+        "predicted_target": "당신은 모텔에 살고 있습니다."
+    },
+    {
+        "data_index": 114,
+        "source": "Díky tobě vím, že se tak dá žít. ",
+        "predicted_target": "당신 덕분에 그렇게 살 수 있다는 것을 알았어요."
+    },
+    {
+        "data_index": 115,
+        "source": "Nájem platí vždycky za úplňku. ",
+        "predicted_target": "임대료는 항상 만월에 지불됩니다."
+    },
+    {
+        "data_index": 116,
+        "source": "Žiješ jako v pohádce! ",
+        "predicted_target": "동화 속에서 살고 있어!"
+    },
+    {
+        "data_index": 117,
+        "source": "Teda, Tongun asi bude moje dobrá víla. ",
+        "predicted_target": "\"그러면, Tongun은 내 좋은 요정이 될 것입니다.\""
+    },
+    {
+        "data_index": 118,
+        "source": "Dokonce mi pomáhá žehlit si vlasy. ",
+        "predicted_target": "심지어 그녀는 내 머리를 고르게 다듬어주기도 해."
+    },
+    {
+        "data_index": 119,
+        "source": "Pusťte mě! ",
+        "predicted_target": "나를 놓아주세요!"
+    },
+    {
+        "data_index": 120,
+        "source": "Pusťte mě! ",
+        "predicted_target": "나를 놓아주세요!"
+    },
+    {
+        "data_index": 121,
+        "source": "- Pusťte mě! - Neřvi! ",
+        "predicted_target": "\"나를 놓아주세요!\" - \"소리치지 마세요!\""
+    },
+    {
+        "data_index": 122,
+        "source": "- Pusťte mě. - Umlč ji. ",
+        "predicted_target": "- 나를 놓아주세요. - 그녀를 침묵시켜주세요."
+    },
+    {
+        "data_index": 123,
+        "source": "Pusťte mě! ",
+        "predicted_target": "나를 놓아주세요!"
+    },
+    {
+        "data_index": 124,
+        "source": "Jsi moc hlasitá, a na veřejném místě. ",
+        "predicted_target": "당신은 너무 시끄러워요, 그리고 공공장소에서."
+    },
+    {
+        "data_index": 125,
+        "source": "MORI ",
+        "predicted_target": "모리"
+    },
+    {
+        "data_index": 126,
+        "source": "Peroxid vodíku? ",
+        "predicted_target": "과산화수소?"
+    },
+    {
+        "data_index": 127,
+        "source": "Stačí mi, když mi ho dáte. ",
+        "predicted_target": "그냥 그것을 내게 주시면 됩니다."
+    },
+    {
+        "data_index": 128,
+        "source": "Mám něco na mikině. ",
+        "predicted_target": "나의 맨투맨에 뭔가 있어요."
+    },
+    {
+        "data_index": 129,
+        "source": "Co máš na mikině? ",
+        "predicted_target": "당신은 스웨터에 무엇을 가지고 있나요?"
+    },
+    {
+        "data_index": 130,
+        "source": "To je krev? ",
+        "predicted_target": "이게 피인가요?"
+    },
+    {
+        "data_index": 131,
+        "source": "Prosím, dejte mi ten peroxid. ",
+        "predicted_target": "제발, 퍼옥사이드를 주세요."
+    },
+    {
+        "data_index": 132,
+        "source": "Co se stalo? Kdo ti to udělal? ",
+        "predicted_target": "무슨 일이 있었나요? 누가 그것을 당신에게 했나요?"
+    },
+    {
+        "data_index": 133,
+        "source": "Řekla jsi to svému učiteli? ",
+        "predicted_target": "당신은 선생님께 말씀하셨나요?"
+    },
+    {
+        "data_index": 134,
+        "source": "Tohle nevidím poprvé. ",
+        "predicted_target": "이건 처음 보는 게 아니에요."
+    },
+    {
+        "data_index": 135,
+        "source": "Jestli je to pro tebe těžké, půjdu za učitelem s tebou. ",
+        "predicted_target": "당신에게 어렵다면, 나는 당신과 함께 선생님을 찾아갈게요."
+    },
+    {
+        "data_index": 136,
+        "source": "Kdo to byl? ",
+        "predicted_target": "누구였나요?"
+    },
+    {
+        "data_index": 137,
+        "source": "Jo, mami? ",
+        "predicted_target": "조, 엄마?"
+    },
+    {
+        "data_index": 138,
+        "source": "Pak ti zavolám. ",
+        "predicted_target": "나는 너에게 전화할게."
+    },
+    {
+        "data_index": 139,
+        "source": "Byla jsem to já. ",
+        "predicted_target": "그것은 나였습니다."
+    },
+    {
+        "data_index": 140,
+        "source": "I předtím jsem to byla já. ",
+        "predicted_target": "이전에도 그것은 나였습니다."
+    },
+    {
+        "data_index": 141,
+        "source": "Víš to, Jondžin? ",
+        "predicted_target": "당신은 알고 있습니까, Jondžin?"
+    },
+    {
+        "data_index": 142,
+        "source": "Že tvoje dcera ráda sleduje svět vzhůru nohama? ",
+        "predicted_target": "당신의 딸이 거꾸로 세상을 관찰하는 것을 좋아한다는 건가요?"
+    },
+    {
+        "data_index": 143,
+        "source": "Je to proto, že když je vzhůru nohama, ",
+        "predicted_target": "그것은 머리를 아래로 하면 그렇기 때문입니다."
+    },
+    {
+        "data_index": 144,
+        "source": "lidi člověka chápou, i když si plete barvy? ",
+        "predicted_target": "사람들은 색상을 혼동하더라도 사람을 이해할까요?"
+    },
+    {
+        "data_index": 145,
+        "source": "Máte stejné boty jako moje máma. ",
+        "predicted_target": "당신은 제 엄마와 같은 신발을 가지고 있습니다."
+    },
+    {
+        "data_index": 146,
+        "source": "Takže to jsi ty. ",
+        "predicted_target": "그래서 너구나."
+    },
+    {
+        "data_index": 147,
+        "source": "Dcera Pak Jondžin, Ha Jesol. ",
+        "predicted_target": "박종진의 딸, 하제솔."
+    },
+    {
+        "data_index": 148,
+        "source": "Znáte moji mámu? ",
+        "predicted_target": "당신은 내 엄마를 알고 있나요?"
+    },
+    {
+        "data_index": 149,
+        "source": "Myslím na ni každý den. ",
+        "predicted_target": "나는 매일 그녀를 생각합니다."
+    },
+    {
+        "data_index": 150,
+        "source": "Nenávist je někdy jako touha. ",
+        "predicted_target": "증오는 때로 욕망과 같다."
+    },
+    {
+        "data_index": 151,
+        "source": "Není možné se jí zbavit. ",
+        "predicted_target": "그녀를 제거할 수 없습니다."
+    },
+    {
+        "data_index": 152,
+        "source": "„Nenávist“? ",
+        "predicted_target": "\"증오\"?"
+    },
+    {
+        "data_index": 153,
+        "source": "To slovo neznám. Co to znamená? ",
+        "predicted_target": "그 단어는 모르겠습니다. 그게 무슨 뜻이죠?"
+    },
+    {
+        "data_index": 154,
+        "source": "Co znamená nenávist? ",
+        "predicted_target": "\"증오란 무엇을 의미합니까?\""
+    },
+    {
+        "data_index": 155,
+        "source": "Já se snad počurám smíchy! ",
+        "predicted_target": "나는 웃음으로 미쳐버릴 것 같아!"
+    },
+    {
+        "data_index": 156,
+        "source": "Co? Co je? ",
+        "predicted_target": "뭐야? 뭐야 그거?"
+    },
+    {
+        "data_index": 157,
+        "source": "Chceš zdrhnout? ",
+        "predicted_target": "도망갈래?"
+    },
+    {
+        "data_index": 158,
+        "source": "Když se bavila, oči jí ztemněly ještě víc. ",
+        "predicted_target": "그녀가 즐거워할 때, 눈이 더욱 어둡게 되었다."
+    },
+    {
+        "data_index": 159,
+        "source": "Co ti tak trvalo? ",
+        "predicted_target": "너 왜 그렇게 오래 걸렸어?"
+    },
+    {
+        "data_index": 160,
+        "source": "K smrti jsi mi chyběla. ",
+        "predicted_target": "죽음에 당신이 그리웠습니다."
+    },
+    {
+        "data_index": 161,
+        "source": "Rty roztáhla v rozkošném úsměvu. ",
+        "predicted_target": "입술은 사랑스러운 미소로 벌어졌다."
+    },
+    {
+        "data_index": 162,
+        "source": "Každý pramen jejích krásných vlasů. ",
+        "predicted_target": "그녀 아름다운 머리카락의 모든 가닥."
+    },
+    {
+        "data_index": 163,
+        "source": "Tohle všechno dohromady, ",
+        "predicted_target": "이 모든 것을 함께"
+    },
+    {
+        "data_index": 164,
+        "source": "to je nenávist. ",
+        "predicted_target": "그것은 증오입니다."
+    },
+    {
+        "data_index": 165,
+        "source": "Ona se před dveřmi vyzula! ",
+        "predicted_target": "그녀는 문 앞에서 신발을 벗었습니다!"
+    },
+    {
+        "data_index": 166,
+        "source": "My jsme fakt hnusný, styďte se. ",
+        "predicted_target": "우리는 정말 추하다, 부끄러워하라."
+    },
+    {
+        "data_index": 167,
+        "source": "Hej, uhni. ",
+        "predicted_target": "헤이, 비켜."
+    },
+    {
+        "data_index": 168,
+        "source": "To je tvoje? ",
+        "predicted_target": "이거 너의 거야?"
+    },
+    {
+        "data_index": 169,
+        "source": "Našel jsem to v nádobě na rýži. ",
+        "predicted_target": "나는 그것을 쌀 그릇에서 찾았다."
+    },
+    {
+        "data_index": 170,
+        "source": "- Nevěřila jsem vlastním očím. - Vrať to. ",
+        "predicted_target": "- 나는 내 눈을 믿지 못했다. - 돌려줘."
+    },
+    {
+        "data_index": 171,
+        "source": "Ale ne. ",
+        "predicted_target": "하지 않습니다."
+    },
+    {
+        "data_index": 172,
+        "source": "Tongun se nám zlobí? ",
+        "predicted_target": "토군이 우리한테 화를 내고 있나요?"
+    },
+    {
+        "data_index": 173,
+        "source": "Dobrý postřeh. ",
+        "predicted_target": "좋은 관찰."
+    },
+    {
+        "data_index": 174,
+        "source": "Celkem sumička. ",
+        "predicted_target": "전체적으로 작은 돈이에요."
+    },
+    {
+        "data_index": 175,
+        "source": "Vážně? Tak to je fakt smutný. ",
+        "predicted_target": "진짜? 그러면 정말 슬픈 일이네요."
+    },
+    {
+        "data_index": 176,
+        "source": "Tongun. ",
+        "predicted_target": "통운."
+    },
+    {
+        "data_index": 177,
+        "source": "Ty jsi tak neskutečně šetrná. ",
+        "predicted_target": "당신은 정말로 아주 절약적입니다."
+    },
+    {
+        "data_index": 178,
+        "source": "Krávo. Co sis fetla tentokrát? ",
+        "predicted_target": "\"Krávo. 이번에 또 뭐 했어?\""
+    },
+    {
+        "data_index": 179,
+        "source": "Sirup na kašel, lepidlo? ",
+        "predicted_target": "기침 시럽, 접착제?"
+    },
+    {
+        "data_index": 180,
+        "source": "Přestaň! Nech toho! ",
+        "predicted_target": "그만해! 그만둬!"
+    },
+    {
+        "data_index": 181,
+        "source": "Tongun je zkurveně bohatá! ",
+        "predicted_target": "토끼는 엄청나게 부유해!"
+    },
+    {
+        "data_index": 182,
+        "source": "- Je to asi 200 000 wonů. - Takže nás zveš? ",
+        "predicted_target": "- 대략 20만원 정도입니다. - 그러면 우리가 갈까요?"
+    },
+    {
+        "data_index": 183,
+        "source": "Vy jste bohatí. Vy peníze nepotřebujete! ",
+        "predicted_target": "당신들은 부유합니다. 당신들은 돈이 필요하지 않습니다!"
+    },
+    {
+        "data_index": 184,
+        "source": "Prosím, vrať mi to, Jondžin. ",
+        "predicted_target": "제발, 돌려줘, Jondžin."
+    },
+    {
+        "data_index": 185,
+        "source": "Vidím, že konečně projevuješ úctu. ",
+        "predicted_target": "나는 너가 마침내 존경을 보이고 있다는 것을 본다."
+    },
+    {
+        "data_index": 186,
+        "source": "Fajn. ",
+        "predicted_target": "훌륭합니다."
+    },
+    {
+        "data_index": 187,
+        "source": "Vrátím ti to. ",
+        "predicted_target": "네게 돌려줄게."
+    },
+    {
+        "data_index": 188,
+        "source": "Ale ty nám tady k tomu pití zatancuješ. ",
+        "predicted_target": "하지만 당신은 여기서 음료를 마시면서 춤을 출 거예요."
+    },
+    {
+        "data_index": 189,
+        "source": "Pak se těch peněz nedotknu. Takže? ",
+        "predicted_target": "그 돈에 손 대지 않을 거야. 그래서?"
+    },
+    {
+        "data_index": 190,
+        "source": "- Cože? - Říkám tancuj. ",
+        "predicted_target": "- 뭐라고요? - 춤을 추라고 말하는 거예요."
+    },
+    {
+        "data_index": 191,
+        "source": "Zpěv a tanec se k pití náramně hodí. ",
+        "predicted_target": "노래와 춤은 마실 때 아주 잘 어울립니다."
+    },
+    {
+        "data_index": 192,
+        "source": "Cože? Ty nechceš? ",
+        "predicted_target": "뭐라고? 너 안 하고 싶어?"
+    },
+    {
+        "data_index": 193,
+        "source": "Jestli nechceš, existuje jiný způsob. ",
+        "predicted_target": "당신이 원하지 않는다면, 다른 방법이 있습니다."
+    },
+    {
+        "data_index": 194,
+        "source": "Našla jsem to u tebe doma. ",
+        "predicted_target": "당신 집에서 그것을 찾았어요."
+    },
+    {
+        "data_index": 195,
+        "source": "Teď jsi dost v hajzlu. ",
+        "predicted_target": "지금 너는 꽤 곤란한 상황에 처해있다."
+    },
+    {
+        "data_index": 196,
+        "source": "Ale jestli budeš nosit nos nahoru, ",
+        "predicted_target": "하지만 당신이 코를 위로 향하게 하면,"
+    },
+    {
+        "data_index": 197,
+        "source": "budeš v hajzlu ještě daleko víc. ",
+        "predicted_target": "당신은 더욱 깊은 곤경에 빠질 것입니다."
+    },
+    {
+        "data_index": 198,
+        "source": "Tak tancuj. ",
+        "predicted_target": "그러면 춤을 춰봐."
+    },
+    {
+        "data_index": 199,
+        "source": "A poníženě. ",
+        "predicted_target": "\"겸손하게.\""
+    },
+    {
+        "data_index": 200,
+        "source": "Jestli nechceš, tak fajn. ",
+        "predicted_target": "당신이 원하지 않는다면 괜찮아요."
+    },
+    {
+        "data_index": 201,
+        "source": "Ale když tě dneska vidím, Tongun… ",
+        "predicted_target": "하지만 오늘 당신을 보면, 통운..."
+    },
+    {
+        "data_index": 202,
+        "source": "Máš hezké nohy. ",
+        "predicted_target": "당신은 예쁜 다리를 가지고 있습니다."
+    },
+    {
+        "data_index": 203,
+        "source": "Vyberu ti písničku. ",
+        "predicted_target": "너한테 노래를 고를게."
+    },
+    {
+        "data_index": 204,
+        "source": "Mám děsně moc zvonění. ",
+        "predicted_target": "저는 엄청 많은 전화 벨소리가 있습니다."
+    },
+    {
+        "data_index": 205,
+        "source": "OŠETŘOVNA ",
+        "predicted_target": "보호소"
+    },
+    {
+        "data_index": 206,
+        "source": "DOČASNĚ UZAVŘENO KVŮLI VÝPOVĚDI OŠETŘOVATELKY ",
+        "predicted_target": "간호사 진술로 인해 일시적으로 폐쇄됩니다."
+    },
+    {
+        "data_index": 207,
+        "source": "Vážně? Kdy? ",
+        "predicted_target": "진짜요? 언제요?"
+    },
+    {
+        "data_index": 208,
+        "source": "Zavolám ti. ",
+        "predicted_target": "전화할게요."
+    },
+    {
+        "data_index": 209,
+        "source": "Poslouchejte, Tongun ukončila školu. ",
+        "predicted_target": "들어주세요, Tongun은 학교를 마쳤습니다."
+    },
+    {
+        "data_index": 210,
+        "source": "Ale do důvodu napsala naše jména. ",
+        "predicted_target": "하지만 그녀는 우리 이름을 적은 이유가 있었다."
+    },
+    {
+        "data_index": 211,
+        "source": "Formulář dala zástupci ředitele a ten teď prudí našeho učitele. ",
+        "predicted_target": "양식은 교장대리에게 제출되었고, 그가 지금 우리 선생님을 괴롭힙니다."
+    },
+    {
+        "data_index": 212,
+        "source": "Volal ti tělocvikář? ",
+        "predicted_target": "체육교사가 전화했나요?"
+    },
+    {
+        "data_index": 213,
+        "source": "Seřadila nás podle toho, kdo ji nejvíc bil? ",
+        "predicted_target": "\"누가 그녀를 가장 많이 때렸는지에 따라 우리를 정렬했나요?\""
+    },
+    {
+        "data_index": 214,
+        "source": "Kam asi tak napsala mě? ",
+        "predicted_target": "나에게 어떤 내용을 썼을까?"
+    },
+    {
+        "data_index": 215,
+        "source": "Nechápete, jak je to vážné? ",
+        "predicted_target": "당신은 얼마나 심각한지 이해하지 못하십니까?"
+    },
+    {
+        "data_index": 216,
+        "source": "Hej! ",
+        "predicted_target": "헤이!"
+    },
+    {
+        "data_index": 217,
+        "source": "Čedžune! Jondžin! ",
+        "predicted_target": "체준에! 종진에!"
+    },
+    {
+        "data_index": 218,
+        "source": "Pojeďte sem. ",
+        "predicted_target": "여기로 오세요."
+    },
+    {
+        "data_index": 219,
+        "source": "Ty krávo blbá! ",
+        "predicted_target": "당신 멍청한 소!"
+    },
+    {
+        "data_index": 220,
+        "source": "Jestli chceš odejít, tak bez keců! ",
+        "predicted_target": "\"떠나고 싶으면 말이 필요 없어!\""
+    },
+    {
+        "data_index": 221,
+        "source": "Tak ty jsi nic neprovedla? Vůbec nic? ",
+        "predicted_target": "당신은 아무것도 안 했나요? 전혀 아무것도?"
+    },
+    {
+        "data_index": 222,
+        "source": "Jestli to zašlo tak daleko, můžeš si za to ty! ",
+        "predicted_target": "그게 그렇게까지 갔다면, 네가 그걸 책임져야 해!"
+    },
+    {
+        "data_index": 223,
+        "source": "Okamžitě ten formulář přepíšeš! ",
+        "predicted_target": "당장 그 양식을 다시 작성하세요!"
+    },
+    {
+        "data_index": 224,
+        "source": "FORMULÁŘ O UKONČENÍ STUDIA ",
+        "predicted_target": "학업 종료 양식"
+    },
+    {
+        "data_index": 225,
+        "source": "Jestli se to dostane k řediteli, ",
+        "predicted_target": "그게 이사에게 전달된다면,"
+    },
+    {
+        "data_index": 226,
+        "source": "ovlivní to vaše hodnocení, pane Kime. ",
+        "predicted_target": "\"그것은 김씨의 평가에 영향을 미칠 것입니다.\""
+    },
+    {
+        "data_index": 227,
+        "source": "Já to vím, jasný? Takže klid. ",
+        "predicted_target": "나는 그걸 안다, 명백하지? 그러니까 안심해."
+    },
+    {
+        "data_index": 228,
+        "source": "Co je to? ",
+        "predicted_target": "이게 뭐에요?"
+    },
+    {
+        "data_index": 229,
+        "source": "Co je to za důvod k odchodu? ",
+        "predicted_target": "떠날 이유가 무엇인가요?"
+    },
+    {
+        "data_index": 230,
+        "source": "Školní šikana. ",
+        "predicted_target": "학교에서의 괴롭힘."
+    },
+    {
+        "data_index": 231,
+        "source": "Od Jondžin, Sary, Čedžuna, Hjedžong a Mjonga. ",
+        "predicted_target": "존진, 사라, 체준, 혜정 그리고 몽."
+    },
+    {
+        "data_index": 232,
+        "source": "A vy jste přihlížející. ",
+        "predicted_target": "그리고 당신은 관중입니다."
+    },
+    {
+        "data_index": 233,
+        "source": "Zavři klapačku! ",
+        "predicted_target": "\"덮개를 닫아주세요!\""
+    },
+    {
+        "data_index": 234,
+        "source": "Zlomili ti ruku nebo nohu? ",
+        "predicted_target": "팔이나 다리를 부러뜨렸나요?"
+    },
+    {
+        "data_index": 235,
+        "source": "Nemáš vůbec nic zlomeného. ",
+        "predicted_target": "아무것도 부러지지 않았어요."
+    },
+    {
+        "data_index": 236,
+        "source": "Tak jaképak násilí? ",
+        "predicted_target": "어떤 폭력인가요?"
+    },
+    {
+        "data_index": 237,
+        "source": "Jak můžu být přihlížející? ",
+        "predicted_target": "어떻게 관전자가 될 수 있나요?"
+    },
+    {
+        "data_index": 238,
+        "source": "Tobě úplně přeskočilo, víš to? ",
+        "predicted_target": "당신은 완전히 뛰어넘었나요, 알고 있나요?"
+    },
+    {
+        "data_index": 239,
+        "source": "Kámoši si můžou sem tam vrazit facku! ",
+        "predicted_target": "친구들끼리 때때로 얼굴을 때려도 돼!"
+    },
+    {
+        "data_index": 240,
+        "source": "A proč ",
+        "predicted_target": "Sorry, as an AI language model, I cannot translate incomplete sentences or phrases. Please provide the complete text you want me to translate."
+    },
+    {
+        "data_index": 241,
+        "source": "se můžou fackovat? ",
+        "predicted_target": "그들은 서로 얼굴을 때릴 수 있나요?"
+    },
+    {
+        "data_index": 242,
+        "source": "Cože? ",
+        "predicted_target": "\"뭐라고?\""
+    },
+    {
+        "data_index": 243,
+        "source": "Chlubíte se synem na univerzitě, že? ",
+        "predicted_target": "대학에 있는 아들로 자랑하시나요?"
+    },
+    {
+        "data_index": 244,
+        "source": "Takže jeho kamarádi mu klidně můžou nafackovat? ",
+        "predicted_target": "그래서 그의 친구들은 그에게 평온하게 손바닥을 때릴 수 있나요?"
+    },
+    {
+        "data_index": 245,
+        "source": "Byl jsem k tobě hodný. ",
+        "predicted_target": "나는 너에게 착했다."
+    },
+    {
+        "data_index": 246,
+        "source": "Ale teď o to vyloženě prosíš. ",
+        "predicted_target": "하지만 지금 당신은 명백히 그것을 요청하고 있습니다."
+    },
+    {
+        "data_index": 247,
+        "source": "Teda. ",
+        "predicted_target": "그러니까."
+    },
+    {
+        "data_index": 248,
+        "source": "Co jsi to ",
+        "predicted_target": "나는 번역 AI이므로 체코어를 한국어로 번역할 수 없습니다. 죄송합니다."
+    },
+    {
+        "data_index": 249,
+        "source": "řekla ",
+        "predicted_target": "I'm sorry, but the given Czech text \"řekla\" is a single word and cannot be translated without context. Please provide more information or a complete sentence for accurate translation."
+    },
+    {
+        "data_index": 250,
+        "source": "o mém synovi? ",
+        "predicted_target": "제 아들에 대해서?"
+    },
+    {
+        "data_index": 251,
+        "source": "Zopakuj to. Co jsi to řekla? ",
+        "predicted_target": "반복해주세요. 뭐라고 말했나요?"
+    },
+    {
+        "data_index": 252,
+        "source": "- Vstaň! - Nech toho! ",
+        "predicted_target": "- 일어나세요! - 그만하세요!"
+    },
+    {
+        "data_index": 253,
+        "source": "Hej. ",
+        "predicted_target": "헤이."
+    },
+    {
+        "data_index": 254,
+        "source": "- Uhni. Cos to řekla? - Pane Kime! ",
+        "predicted_target": "- 피하라. 뭐라고 말했어? - 김씨님!"
+    },
+    {
+        "data_index": 255,
+        "source": "- Vstaň! Cos to řekla? - Kime! ",
+        "predicted_target": "- 일어나! 뭐라고 말했어? - 기메!"
+    },
+    {
+        "data_index": 256,
+        "source": "Přestaňte, hned! ",
+        "predicted_target": "그만하세요, 지금바로!"
+    },
+    {
+        "data_index": 257,
+        "source": "Hni sebou. Hej! ",
+        "predicted_target": "흔들어봐. 얘!"
+    },
+    {
+        "data_index": 258,
+        "source": "- Kime! - Nechte mě! ",
+        "predicted_target": "- 킴에! - 나를 놔주세요!"
+    },
+    {
+        "data_index": 259,
+        "source": "- Přestaň! - Hej! ",
+        "predicted_target": "- 그만해! - 어이!"
+    },
+    {
+        "data_index": 260,
+        "source": "- Kime! - Vstávej! ",
+        "predicted_target": "- 킴에! - 일어나세요!"
+    },
+    {
+        "data_index": 261,
+        "source": "HOLIČSTVÍ NOVÝ SVĚT ",
+        "predicted_target": "미용사의 새로운 세계"
+    },
+    {
+        "data_index": 262,
+        "source": "Paní Čong, zvoní vám telefon. ",
+        "predicted_target": "종 여사, 전화가 왔습니다."
+    },
+    {
+        "data_index": 263,
+        "source": "Už jdu! ",
+        "predicted_target": "이제 갈게!"
+    },
+    {
+        "data_index": 264,
+        "source": "- Ale no tak! - Co je? ",
+        "predicted_target": "- 아이고! - 뭐야?"
+    },
+    {
+        "data_index": 265,
+        "source": "Dejte mi chvilku. ",
+        "predicted_target": "잠시만 기다려주세요."
+    },
+    {
+        "data_index": 266,
+        "source": "Bože! ",
+        "predicted_target": "하느님!"
+    },
+    {
+        "data_index": 267,
+        "source": "Ano, prosím? ",
+        "predicted_target": "네, 뭐가 필요하세요?"
+    },
+    {
+        "data_index": 268,
+        "source": "Jo. ",
+        "predicted_target": "조."
+    },
+    {
+        "data_index": 269,
+        "source": "Jsem její matka. ",
+        "predicted_target": "나는 그녀의 어머니입니다."
+    },
+    {
+        "data_index": 270,
+        "source": "Kdo volá? ",
+        "predicted_target": "누구세요?"
+    },
+    {
+        "data_index": 271,
+        "source": "Klidně to otevřete, nebojte se. ",
+        "predicted_target": "걱정하지 마세요. 열어도 괜찮아요."
+    },
+    {
+        "data_index": 272,
+        "source": "Propána! ",
+        "predicted_target": "프로파나!"
+    },
+    {
+        "data_index": 273,
+        "source": "MILION WONŮ ",
+        "predicted_target": "백만 원"
+    },
+    {
+        "data_index": 274,
+        "source": "A tady potřebuju ještě podpis otce. ",
+        "predicted_target": "여기 아버지의 서명이 필요합니다."
+    },
+    {
+        "data_index": 275,
+        "source": "Technicky vzato, nejsem Tongunin otec. ",
+        "predicted_target": "기술적으로 말하면, 나는 통군의 아버지가 아니다."
+    },
+    {
+        "data_index": 276,
+        "source": "Jsem pro ni jako otec. ",
+        "predicted_target": "나는 그녀에게 아버지 같은 존재입니다."
+    },
+    {
+        "data_index": 277,
+        "source": "Potom ",
+        "predicted_target": "나중에"
+    },
+    {
+        "data_index": 278,
+        "source": "podepište vy. ",
+        "predicted_target": "당신이 서명하세요."
+    },
+    {
+        "data_index": 279,
+        "source": "- Aha. - Ano. ",
+        "predicted_target": "\"아하.\" - \"예.\""
+    },
+    {
+        "data_index": 280,
+        "source": "Právní záležitosti jsou někdy důležité, víte? ",
+        "predicted_target": "법률 문제는 때로 중요합니다, 알고 계시나요?"
+    },
+    {
+        "data_index": 281,
+        "source": "Nemám žádný konkrétní podpis. ",
+        "predicted_target": "나는 어떤 구체적인 서명도 없습니다."
+    },
+    {
+        "data_index": 282,
+        "source": "Můžu tam prostě napsat svoje jméno? ",
+        "predicted_target": "그냥 내 이름을 거기에 쓸 수 있어요?"
+    },
+    {
+        "data_index": 283,
+        "source": "Jistě. ",
+        "predicted_target": "확실히."
+    },
+    {
+        "data_index": 284,
+        "source": "Můžete tam napsat svoje jméno a přepsat ten důvod. ",
+        "predicted_target": "당신은 여기에 당신의 이름을 쓰고 그 이유를 다시 쓸 수 있습니다."
+    },
+    {
+        "data_index": 285,
+        "source": "- Důvod? - Stačí krátce. ",
+        "predicted_target": "- 이유? - 간단히 말하면 됩니다."
+    },
+    {
+        "data_index": 286,
+        "source": "„Nepřizpůsobivost“. ",
+        "predicted_target": "\"부적응\""
+    },
+    {
+        "data_index": 287,
+        "source": "POKOJ K PRONÁJMU ",
+        "predicted_target": "방 임대"
+    },
+    {
+        "data_index": 288,
+        "source": "Zapomněla jsi něco? ",
+        "predicted_target": "뭔가 잊었어요?"
+    },
+    {
+        "data_index": 289,
+        "source": "Počkej, tys to nevěděla? ",
+        "predicted_target": "기다려, 너는 그것을 몰랐니?"
+    },
+    {
+        "data_index": 290,
+        "source": "Tvoje máma ten pokoj dnes vyklidila. ",
+        "predicted_target": "당신 어머니는 오늘 그 방을 청소했습니다."
+    },
+    {
+        "data_index": 291,
+        "source": "Panebože. Tady máš školní uniformu. ",
+        "predicted_target": "주님께. 여기 학교 유니폼이 있습니다."
+    },
+    {
+        "data_index": 292,
+        "source": "Určitě ti zavolá. ",
+        "predicted_target": "반드시 그가 전화할 것입니다."
+    },
+    {
+        "data_index": 293,
+        "source": "Vždyť je to tvoje máma. ",
+        "predicted_target": "\"그건 네 엄마잖아.\""
+    },
+    {
+        "data_index": 294,
+        "source": "Proboha. ",
+        "predicted_target": "주님."
+    },
+    {
+        "data_index": 295,
+        "source": "KOREJSKÁ ARCHITEKTURA A SPOLEČNOST ",
+        "predicted_target": "한국 건축과 사회"
+    },
+    {
+        "data_index": 296,
+        "source": "DŮVOD UKONČENÍ STUDIA: NEPŘIZPŮSOBIVOST ",
+        "predicted_target": "학업 중단 이유: 적응 불가능성"
+    },
+    {
+        "data_index": 297,
+        "source": "ZÁKONNÝ ZÁSTUPCE: ČONG MIHI ",
+        "predicted_target": "법정 대리인: 총 미히"
+    },
+    {
+        "data_index": 298,
+        "source": "RÁJ KOREJSKÉHO KIMBAP ",
+        "predicted_target": "한국 김밥의 천국"
+    },
+    {
+        "data_index": 299,
+        "source": "Svědily mě jizvy ",
+        "predicted_target": "상처가 가려웠어요."
+    },
+    {
+        "data_index": 300,
+        "source": "a břicho mi svíraly úděsné menstruační křeče. ",
+        "predicted_target": "제 배는 끔찍한 생리통으로 쥐어짜였다."
+    },
+    {
+        "data_index": 301,
+        "source": "V tu chvíli mě něco napadlo. ",
+        "predicted_target": "그 순간에 무언가 생각이 들었다."
+    },
+    {
+        "data_index": 302,
+        "source": "Lékárna otevírá v devět ráno ",
+        "predicted_target": "약국은 오전 9시에 열립니다."
+    },
+    {
+        "data_index": 303,
+        "source": "a řeka Han je jenom 20 minut pěšky. ",
+        "predicted_target": "한강은 걸어서 20분 거리에 있습니다."
+    },
+    {
+        "data_index": 304,
+        "source": "Voda bude studená ",
+        "predicted_target": "물은 차갑게 될 것입니다."
+    },
+    {
+        "data_index": 305,
+        "source": "a potom bude všechno dobré. ",
+        "predicted_target": "그리고 모든 것이 좋아질 것입니다."
+    },
+    {
+        "data_index": 306,
+        "source": "Jizvy mě už nebudou svědit. ",
+        "predicted_target": "상처 자국은 더 이상 가렵지 않을 것입니다."
+    },
+    {
+        "data_index": 307,
+        "source": "Co víc si přát? ",
+        "predicted_target": "더 무엇을 바라겠는가?"
+    },
+    {
+        "data_index": 308,
+        "source": "Asi to tak bude správné. ",
+        "predicted_target": "아마 그게 옳을 거야."
+    },
+    {
+        "data_index": 309,
+        "source": "Má Tongun ",
+        "predicted_target": "마 토눈"
+    },
+    {
+        "data_index": 310,
+        "source": "hezkou tvář? ",
+        "predicted_target": "예쁜 얼굴?"
+    },
+    {
+        "data_index": 311,
+        "source": "Z klučičího pohledu. ",
+        "predicted_target": "소년의 시선에서."
+    },
+    {
+        "data_index": 312,
+        "source": "Já nevím. ",
+        "predicted_target": "나는 모릅니다."
+    },
+    {
+        "data_index": 313,
+        "source": "Nedělej blbečka. ",
+        "predicted_target": "바보 같은 짓하지 마세요."
+    },
+    {
+        "data_index": 314,
+        "source": "Nemá krásnou jenom tvář. ",
+        "predicted_target": "그녀는 얼굴뿐만 아니라 아름답습니다."
+    },
+    {
+        "data_index": 315,
+        "source": "Proto jsi ji hned líbal? ",
+        "predicted_target": "그래서 당신은 그녀를 즉시 키스했나요?"
+    },
+    {
+        "data_index": 316,
+        "source": "Uhni, jsi těžký. ",
+        "predicted_target": "피해, 너 무거워."
+    },
+    {
+        "data_index": 317,
+        "source": "Kam jdeš? Pro další pití? ",
+        "predicted_target": "당신은 어디로 가고 있나요? 또 마실 거에요?"
+    },
+    {
+        "data_index": 318,
+        "source": "Pošli Hjedžong. ",
+        "predicted_target": "흐에종을 보내세요."
+    },
+    {
+        "data_index": 319,
+        "source": "Kéž bych šla pro pití. ",
+        "predicted_target": "음료수를 가져오러 가고 싶습니다."
+    },
+    {
+        "data_index": 320,
+        "source": "Musím do kostela. ",
+        "predicted_target": "나는 교회에 가야해."
+    },
+    {
+        "data_index": 321,
+        "source": "Fotr mi sebere garsonku, když nepřijdu, ty vole. ",
+        "predicted_target": "아빠가 나 안 오면 내 스튜디오 아파트를 가져간다, 이 멍청아."
+    },
+    {
+        "data_index": 322,
+        "source": "Je to bohoslužba pro maturanty, i vás tam chtěl zavolat. ",
+        "predicted_target": "졸업생을 위한 예배이니, 당신도 거기에 초대하고 싶습니다."
+    },
+    {
+        "data_index": 323,
+        "source": "Hele, chceš, aby ti přestal volat? ",
+        "predicted_target": "\"이봐, 그가 전화하지 않도록 원해?\""
+    },
+    {
+        "data_index": 324,
+        "source": "Kolik máš bílých košilí? ",
+        "predicted_target": "당신은 흰색 셔츠가 몇 벌 있나요?"
+    },
+    {
+        "data_index": 325,
+        "source": "- Amen! - Amen! ",
+        "predicted_target": "아멘! - 아멘!"
+    },
+    {
+        "data_index": 326,
+        "source": "Ježíš Kristus řekl: ",
+        "predicted_target": "예수 그리스도는 말씀하셨습니다:"
+    },
+    {
+        "data_index": 327,
+        "source": "„Když tě někdo udeří na pravou tvář, nastav mu i druhou.“ ",
+        "predicted_target": "\"오른쪽 얼굴을 때렸을 때, 다른 쪽도 내밀어라.\""
+    },
+    {
+        "data_index": 328,
+        "source": "- Amen! - Amen! ",
+        "predicted_target": "아멘! - 아멘!"
+    },
+    {
+        "data_index": 329,
+        "source": "„A tomu, kdo ti chce vzít tvé šaty, tomu nech i plášť.“ ",
+        "predicted_target": "\"당신의 옷을 가져가려는 사람에게 망토도 내어주십시오.\""
+    },
+    {
+        "data_index": 330,
+        "source": "- Amen! - Amen! ",
+        "predicted_target": "아멘! - 아멘!"
+    },
+    {
+        "data_index": 331,
+        "source": "„Kdo tě donutí k službě na jednu míli, jdi s ním dvě.“ ",
+        "predicted_target": "\"한 마일을 봉사하도록 강요하는 사람이 있다면, 그와 함께 두 마일 가자.\""
+    },
+    {
+        "data_index": 332,
+        "source": "- Amen! - Amen! ",
+        "predicted_target": "아멘! - 아멘!"
+    },
+    {
+        "data_index": 333,
+        "source": "- Věříme v tebe, Pane. - Amen. ",
+        "predicted_target": "우리는 주님을 믿습니다. 아멘."
+    },
+    {
+        "data_index": 334,
+        "source": "Sařině tátovi se legračně lámal hlas. ",
+        "predicted_target": "사린의 아버지는 웃기게 목소리가 깨졌다."
+    },
+    {
+        "data_index": 335,
+        "source": "Měli jste vidět jeho výraz. ",
+        "predicted_target": "그의 표정을 보았어야 했어요."
+    },
+    {
+        "data_index": 336,
+        "source": "Asi byl v šoku, že nevidí nic extra. ",
+        "predicted_target": "아마 그는 아무것도 특별한 것을 보지 못해서 충격을 받았을 것입니다."
+    },
+    {
+        "data_index": 337,
+        "source": "Hej. ",
+        "predicted_target": "헤이."
+    },
+    {
+        "data_index": 338,
+        "source": "- Chci čokoládové mléko. - Co? ",
+        "predicted_target": "- 초콜릿 우유를 원해요. - 뭐라고요?"
+    },
+    {
+        "data_index": 339,
+        "source": "Tak jo. ",
+        "predicted_target": "그래."
+    },
+    {
+        "data_index": 340,
+        "source": "- A co vy? - Hjedžong! ",
+        "predicted_target": "\"그리고 당신은요? - 흐에종!\""
+    },
+    {
+        "data_index": 341,
+        "source": "Víš, že se tento týden postím! ",
+        "predicted_target": "당신은 이번 주에 금식한다는 것을 알고 있나요?"
+    },
+    {
+        "data_index": 342,
+        "source": "Sakra. ",
+        "predicted_target": "사크라."
+    },
+    {
+        "data_index": 343,
+        "source": "Hej, Kjongnan. ",
+        "predicted_target": "헤이, 케옹난."
+    },
+    {
+        "data_index": 344,
+        "source": "Kdy přestaneš bulet? Zítra ráno? ",
+        "predicted_target": "총을 쏘는 것을 멈출 때는 언제인가요? 내일 아침에요?"
+    },
+    {
+        "data_index": 345,
+        "source": "Přestaň brečet, ty krávo blbá. ",
+        "predicted_target": "울지 마, 멍청한 소야."
+    },
+    {
+        "data_index": 346,
+        "source": "Ty vole, seš děsně hlasitá, sakra. ",
+        "predicted_target": "\"씨발, 너 엄청 시끄러워, 젠장.\""
+    },
+    {
+        "data_index": 347,
+        "source": "Kjongnan. ",
+        "predicted_target": "종난."
+    },
+    {
+        "data_index": 348,
+        "source": "Jestli budeš ječet, narvu ti to do pusy. ",
+        "predicted_target": "당신이 소리를 지르면, 내가 당신의 입에 밀어 넣을 것입니다."
+    },
+    {
+        "data_index": 349,
+        "source": "Co ta tady dělá? ",
+        "predicted_target": "여기서 뭐해?"
+    },
+    {
+        "data_index": 350,
+        "source": "Jí snad hrabe. Proč sem dobrovolně leze? ",
+        "predicted_target": "그녀는 어쩌면 파고들고 있을지도 모릅니다. 왜 자발적으로 여기에 올라가나요?"
+    },
+    {
+        "data_index": 351,
+        "source": "No teda, Tongun. ",
+        "predicted_target": "노 테다, 토눈."
+    },
+    {
+        "data_index": 352,
+        "source": "Moc jsi mi chyběla. ",
+        "predicted_target": "당신이 너무 그리웠어요."
+    },
+    {
+        "data_index": 353,
+        "source": "Odešlas bez rozloučení. ",
+        "predicted_target": "작별 인사 없이 떠나다."
+    },
+    {
+        "data_index": 354,
+        "source": "Ten tvůj sen, co sis napsala na síť Cyworld. ",
+        "predicted_target": "당신이 Cyworld에 쓴 꿈입니다."
+    },
+    {
+        "data_index": 355,
+        "source": "„Moudrá matka, dobrá žena.“ Myslíš to vážně? ",
+        "predicted_target": "\"현명한 어머니, 좋은 여자.\" 진지하게 생각해?"
+    },
+    {
+        "data_index": 356,
+        "source": "Vážně? To jsi tam fakt napsala? ",
+        "predicted_target": "진짜? 그거 정말 거기에 썼어?"
+    },
+    {
+        "data_index": 357,
+        "source": "Kde jsi to do háje vyhrabala? ",
+        "predicted_target": "당신은 어디에서 그것을 땅속에서 파내었나요?"
+    },
+    {
+        "data_index": 358,
+        "source": "Sara chce malovat. ",
+        "predicted_target": "사라는 그림을 그리고 싶어합니다."
+    },
+    {
+        "data_index": 359,
+        "source": "Čedžun zdědí golfové hřiště. Hjedžong bude letuška. ",
+        "predicted_target": "체준은 골프장을 상속받았습니다. 혜정은 승무원이 될 것입니다."
+    },
+    {
+        "data_index": 360,
+        "source": "A ty chceš být moudrá matka a dobrá žena? ",
+        "predicted_target": "그리고 당신은 현명한 어머니이자 좋은 여자가 되고 싶으세요?"
+    },
+    {
+        "data_index": 361,
+        "source": "Co to kurva je? ",
+        "predicted_target": "이게 뭐야?"
+    },
+    {
+        "data_index": 362,
+        "source": "Proč jsi mě vynechala? ",
+        "predicted_target": "왜 나를 무시했어?"
+    },
+    {
+        "data_index": 363,
+        "source": "Já mám taky sen. Budu milionář. ",
+        "predicted_target": "나도 꿈이 있어. 백만장자가 될 거야."
+    },
+    {
+        "data_index": 364,
+        "source": "Já nemám sen, Tongun. ",
+        "predicted_target": "나는 꿈이 없어, Tongun."
+    },
+    {
+        "data_index": 365,
+        "source": "Sny jsou pro lidi jako ty. ",
+        "predicted_target": "꿈은 당신과 같은 사람들을 위한 것입니다."
+    },
+    {
+        "data_index": 366,
+        "source": "Ty, on a ona. ",
+        "predicted_target": "너, 그와 그녀."
+    },
+    {
+        "data_index": 367,
+        "source": "Až si splníte sny, budete pro mě pracovat. ",
+        "predicted_target": "당신이 꿈을 이루면, 당신은 나를 위해 일할 것입니다."
+    },
+    {
+        "data_index": 368,
+        "source": "Já nepotřebuju sen, ale práci. ",
+        "predicted_target": "나는 꿈이 아니라 일을 필요로해."
+    },
+    {
+        "data_index": 369,
+        "source": "Práci, která mě nebude ponižovat. ",
+        "predicted_target": "나를 굴복시키지 않을 일."
+    },
+    {
+        "data_index": 370,
+        "source": "A taky se vdám, dokud jsem mladá a krásná. ",
+        "predicted_target": "젊고 아름다울 때 결혼할 거예요."
+    },
+    {
+        "data_index": 371,
+        "source": "Vyberu si slušného muže. Budu mít jedno nebo dvě děti. ",
+        "predicted_target": "저는 예의 바른 남자를 선택할 것입니다. 한 두 명의 아이를 가질 것입니다."
+    },
+    {
+        "data_index": 372,
+        "source": "A budu žít šťastně až do smrti. ",
+        "predicted_target": "나는 죽을 때까지 행복하게 살 것이다."
+    },
+    {
+        "data_index": 373,
+        "source": "To se nedá dost dobře shrnout jedním slovem, ne? ",
+        "predicted_target": "한 단어로는 잘 요약할 수 없겠죠?"
+    },
+    {
+        "data_index": 374,
+        "source": "Jo, dá. ",
+        "predicted_target": "조, 네."
+    },
+    {
+        "data_index": 375,
+        "source": "Blbost. ",
+        "predicted_target": "어리석음."
+    },
+    {
+        "data_index": 376,
+        "source": "Drž hubu, Saro. ",
+        "predicted_target": "사로, 입 다물어."
+    },
+    {
+        "data_index": 377,
+        "source": "Bojím! ",
+        "predicted_target": "무서워!"
+    },
+    {
+        "data_index": 378,
+        "source": "Takže? ",
+        "predicted_target": "그래요?"
+    },
+    {
+        "data_index": 379,
+        "source": "Jaký je tvůj sen? ",
+        "predicted_target": "당신의 꿈은 무엇인가요?"
+    },
+    {
+        "data_index": 380,
+        "source": "Ty. ",
+        "predicted_target": "당신."
+    },
+    {
+        "data_index": 381,
+        "source": "Ode dneška jsi mým snem ty. ",
+        "predicted_target": "오늘부터 당신은 내 꿈이에요."
+    },
+    {
+        "data_index": 382,
+        "source": "Doufám, ",
+        "predicted_target": "나는 희망한다."
+    },
+    {
+        "data_index": 383,
+        "source": "že se ještě uvidíme. ",
+        "predicted_target": "우리가 다시 만날 것이라는 것을 의미합니다."
+    },
+    {
+        "data_index": 384,
+        "source": "LÉTO 2006 ",
+        "predicted_target": "여름 2006"
+    },
+    {
+        "data_index": 385,
+        "source": "Přestaň s tím, dej to pryč. ",
+        "predicted_target": "그만해, 그거 내어놔."
+    },
+    {
+        "data_index": 386,
+        "source": "Hej, nebuďte na ni tak tvrdý. ",
+        "predicted_target": "\"안녕, 그녀에게 너무 엄격하지 마세요.\""
+    },
+    {
+        "data_index": 387,
+        "source": "Na rukou a nohou má tolik popálenin od cigaret. ",
+        "predicted_target": "담배로 인한 화상이 손과 발에 많이 있습니다."
+    },
+    {
+        "data_index": 388,
+        "source": "Dělej svou práci. ",
+        "predicted_target": "당신의 일을 하세요."
+    },
+    {
+        "data_index": 389,
+        "source": "VÝSLEDKY MATURITY ",
+        "predicted_target": "성숙도 결과"
+    },
+    {
+        "data_index": 390,
+        "source": "MUN TONGUN MATURITU JSTE ÚSPĚŠNĚ SLOŽILA ",
+        "predicted_target": "문 통운 마투리투, 당신은 성공적으로 합격하셨습니다."
+    },
+    {
+        "data_index": 391,
+        "source": "PODZIM 2006 ",
+        "predicted_target": "가을 2006"
+    },
+    {
+        "data_index": 392,
+        "source": "MATEMATIKA 2005 ",
+        "predicted_target": "수학 2005"
+    },
+    {
+        "data_index": 393,
+        "source": "STUDIJNÍ DOVEDNOSTI 2006 ",
+        "predicted_target": "학습 능력 2006"
+    },
+    {
+        "data_index": 394,
+        "source": "PODZIM 2007 ",
+        "predicted_target": "가을 2007"
+    },
+    {
+        "data_index": 395,
+        "source": "PODZIM 2008 ",
+        "predicted_target": "가을 2008"
+    },
+    {
+        "data_index": 396,
+        "source": "Promiň. ",
+        "predicted_target": "미안합니다."
+    },
+    {
+        "data_index": 397,
+        "source": "Nechci tě vyrušovat. ",
+        "predicted_target": "당신을 방해하고 싶지 않아요."
+    },
+    {
+        "data_index": 398,
+        "source": "Je mi 20 let a jmenuju se Ku Songhi. ",
+        "predicted_target": "저는 20살이고, 이름은 쿠 송히입니다."
+    },
+    {
+        "data_index": 399,
+        "source": "Prý koncem měsíce odcházíš z továrny. ",
+        "predicted_target": "당신은 달의 끝에 공장에서 떠나는 것 같다."
+    },
+    {
+        "data_index": 400,
+        "source": "Chtěla jsem si s tebou popovídat, než odejdeš. ",
+        "predicted_target": "당신이 떠나기 전에 당신과 이야기하고 싶었습니다."
+    },
+    {
+        "data_index": 401,
+        "source": "Já taky. Děkuju. ",
+        "predicted_target": "나도. 고마워."
+    },
+    {
+        "data_index": 402,
+        "source": "Za co? ",
+        "predicted_target": "왜요?"
+    },
+    {
+        "data_index": 403,
+        "source": "Že chodíš po špičkách. ",
+        "predicted_target": "발끝으로 걷다."
+    },
+    {
+        "data_index": 404,
+        "source": "Ty sis všimla? ",
+        "predicted_target": "당신은 주목했나요?"
+    },
+    {
+        "data_index": 405,
+        "source": "Každopádně gratuluju. ",
+        "predicted_target": "어쨌든 축하해요."
+    },
+    {
+        "data_index": 406,
+        "source": "Prý odcházíš na vysokou školu. ",
+        "predicted_target": "당신은 대학교에 가는 것 같다."
+    },
+    {
+        "data_index": 407,
+        "source": "Musíš mít fakt velkou radost. ",
+        "predicted_target": "당신은 정말 큰 기쁨을 가져야합니다."
+    },
+    {
+        "data_index": 408,
+        "source": "Můžeš chodit na rande a najít si kluka! ",
+        "predicted_target": "데이트를 하고 남자친구를 만날 수 있어!"
+    },
+    {
+        "data_index": 409,
+        "source": "To tam nehledám. ",
+        "predicted_target": "나는 거기서 찾지 않아."
+    },
+    {
+        "data_index": 410,
+        "source": "Jdu na vysokou, protože mám takový cíl. ",
+        "predicted_target": "저는 대학교에 가고 있습니다. 그 이유는 제가 그런 목표를 가지고 있기 때문입니다."
+    },
+    {
+        "data_index": 411,
+        "source": "Jaký máš cíl? ",
+        "predicted_target": "너의 목표는 무엇인가요?"
+    },
+    {
+        "data_index": 412,
+        "source": "Samsung? ",
+        "predicted_target": "삼성?"
+    },
+    {
+        "data_index": 413,
+        "source": "Hyundai? ",
+        "predicted_target": "현대?"
+    },
+    {
+        "data_index": 414,
+        "source": "Nebyl to vtip, Jondžin. ",
+        "predicted_target": "종진, 그건 농담이 아니었어."
+    },
+    {
+        "data_index": 415,
+        "source": "Od toho dne jsi mým jediným snem byla ty. ",
+        "predicted_target": "그 날부터 당신은 내게 유일한 꿈이었습니다."
+    },
+    {
+        "data_index": 416,
+        "source": "TEXTILNÍ ZÁVOD SONGU KANCELÁŘ ",
+        "predicted_target": "송구 섬유 공장 사무실"
+    },
+    {
+        "data_index": 417,
+        "source": "Dám si tu nejsilnější kávu, prosím. Studenou. ",
+        "predicted_target": "제일 강한 커피 한 잔 주세요. 차가운 걸로요."
+    },
+    {
+        "data_index": 418,
+        "source": "Jsem unavená. ",
+        "predicted_target": "나는 피곤해요."
+    },
+    {
+        "data_index": 419,
+        "source": "Co třeba dvojité americano na ledu? ",
+        "predicted_target": "얼음에 더블 아메리카노는 어때요?"
+    },
+    {
+        "data_index": 420,
+        "source": "Ano, to si dám. ",
+        "predicted_target": "네, 그것을 먹겠습니다."
+    },
+    {
+        "data_index": 421,
+        "source": "Počkejte na něj támhle. ",
+        "predicted_target": "거기서 그를 기다리세요."
+    },
+    {
+        "data_index": 422,
+        "source": "Další, prosím. ",
+        "predicted_target": "다음 것, 부탁합니다."
+    },
+    {
+        "data_index": 423,
+        "source": "Ledové americano a mocca latte, prosím. ",
+        "predicted_target": "아이스 아메리카노와 모카 라떼 주세요."
+    },
+    {
+        "data_index": 424,
+        "source": "Na latte tunu šlehačky a čokoládu. ",
+        "predicted_target": "라떼 위에 크림과 초콜릿을 올려주세요."
+    },
+    {
+        "data_index": 425,
+        "source": "Budeme platit zvlášť, ale obě razítka na mou kartičku. ",
+        "predicted_target": "우리는 따로 지불할 것이지만, 두 개의 스탬프를 내 카드에 찍을 거야."
+    },
+    {
+        "data_index": 426,
+        "source": "Ale já jsem si nevzal peněženku. ",
+        "predicted_target": "하지만 지갑을 가져오지 않았어요."
+    },
+    {
+        "data_index": 427,
+        "source": "- Sakra. - Nápoje vydáváme tamhle. ",
+        "predicted_target": "- 저런. - 음료수는 거기에서 내놓습니다."
+    },
+    {
+        "data_index": 428,
+        "source": "Další, prosím. ",
+        "predicted_target": "다음 것, 부탁합니다."
+    },
+    {
+        "data_index": 429,
+        "source": "Korunka ke korunce, víš jak. ",
+        "predicted_target": "왕관에서 왕관으로, 너 알잖아."
+    },
+    {
+        "data_index": 430,
+        "source": "Kamaráde. ",
+        "predicted_target": "친구야."
+    },
+    {
+        "data_index": 431,
+        "source": "- Na kartičkách zbohatnu. - A to jak? ",
+        "predicted_target": "\"카드로 부자가 될 거야. 어떻게?\""
+    },
+    {
+        "data_index": 432,
+        "source": "Pomoz mi trochu. ",
+        "predicted_target": "조금 도와주세요."
+    },
+    {
+        "data_index": 433,
+        "source": "To říkáš vždycky, abys neplatil. Chovej se dospěle. ",
+        "predicted_target": "당신은 항상 지불하지 않도록 말합니다. 어른처럼 행동하세요."
+    },
+    {
+        "data_index": 434,
+        "source": "Tak jo. ",
+        "predicted_target": "그래."
+    },
+    {
+        "data_index": 435,
+        "source": "S kartičkami budeš aspoň pracháč. ",
+        "predicted_target": "카드가 있으면 적어도 돈이 될 거야."
+    },
+    {
+        "data_index": 436,
+        "source": "Tak takhle fakt nezbohatnu. ",
+        "predicted_target": "그렇게 하면 정말 부자가 되지 않을 거야."
+    },
+    {
+        "data_index": 437,
+        "source": "Jak je to možné? ",
+        "predicted_target": "어떻게 가능한가요?"
+    },
+    {
+        "data_index": 438,
+        "source": "VÍTEJTE, PRVÁCI ROKU 2009! ",
+        "predicted_target": "어서오세요, 2009년 신입생!"
+    },
+    {
+        "data_index": 439,
+        "source": "Vítejte! ",
+        "predicted_target": "환영합니다!"
+    },
+    {
+        "data_index": 440,
+        "source": "Myslela jsem na to každý den. ",
+        "predicted_target": "매일 그것을 생각했습니다."
+    },
+    {
+        "data_index": 441,
+        "source": "Kde se s tebou mám znovu sejít? ",
+        "predicted_target": "나는 너와 다시 어디에서 만날까요?"
+    },
+    {
+        "data_index": 442,
+        "source": "Máš všechno. ",
+        "predicted_target": "너는 모든 것을 가지고 있어."
+    },
+    {
+        "data_index": 443,
+        "source": "Nikoho se nebojíš. ",
+        "predicted_target": "당신은 아무도 두려워하지 않습니다."
+    },
+    {
+        "data_index": 444,
+        "source": "Takže jaké místo tě dokáže vyděsit, ",
+        "predicted_target": "그래서 어떤 장소가 당신을 무서워하게 만들까요?"
+    },
+    {
+        "data_index": 445,
+        "source": "aspoň na chvilku? ",
+        "predicted_target": "최소한 잠시나마?"
+    },
+    {
+        "data_index": 446,
+        "source": "Nic jiného mě nenapadlo. ",
+        "predicted_target": "다른 생각이 떠오르지 않았습니다."
+    },
+    {
+        "data_index": 447,
+        "source": "Moje stará třída o 60 metrech čtverečních. ",
+        "predicted_target": "제 오래된 교실은 60 제곱미터입니다."
+    },
+    {
+        "data_index": 448,
+        "source": "HA JESOL ",
+        "predicted_target": "하 제솔"
+    },
+    {
+        "data_index": 449,
+        "source": "Páni, to je jako pohádka. ",
+        "predicted_target": "저희, 이것은 마치 동화 같아요."
+    },
+    {
+        "data_index": 450,
+        "source": "Teď se zmocním žehličky, která je poddajná a zářivá. ",
+        "predicted_target": "이제 유연하고 빛나는 다리미를 잡겠습니다."
+    },
+    {
+        "data_index": 451,
+        "source": "A kterou miluješ ze všeho nejvíc, Jondžin. ",
+        "predicted_target": "당신이 가장 사랑하는 것은 무엇인가요, Jondžin."
+    },
+    {
+        "data_index": 452,
+        "source": "Vážně, jako pohádka? ",
+        "predicted_target": "진짜, 동화처럼?"
+    },
+    {
+        "data_index": 453,
+        "source": "Ano, ale nelíbí se mi, protože máma není hlavní postava. ",
+        "predicted_target": "네, 그러나 나는 마음에 들지 않아요. 왜냐하면 엄마가 주인공이 아니기 때문이죠."
+    },
+    {
+        "data_index": 454,
+        "source": "Proč si to myslíš? ",
+        "predicted_target": "왜 그렇게 생각하나요?"
+    },
+    {
+        "data_index": 455,
+        "source": "Protože máma je bohatá. ",
+        "predicted_target": "엄마가 부유하기 때문에."
+    },
+    {
+        "data_index": 456,
+        "source": "A všichni hrdinové jsou chudí. ",
+        "predicted_target": "그리고 모든 영웅들은 가난합니다."
+    },
+    {
+        "data_index": 457,
+        "source": "Ne, to se pleteš. ",
+        "predicted_target": "아니, 그건 혼동이야."
+    },
+    {
+        "data_index": 458,
+        "source": "V tomhle příběhu je hlavní postavou tvoje matka. ",
+        "predicted_target": "이 이야기에서 주인공은 당신의 어머니입니다."
+    },
+    {
+        "data_index": 459,
+        "source": "Protože ten příběh není pohádka. ",
+        "predicted_target": "그 이야기는 동화가 아니기 때문입니다."
+    },
+    {
+        "data_index": 460,
+        "source": "Je to bajka. ",
+        "predicted_target": "그것은 동화입니다."
+    },
+    {
+        "data_index": 461,
+        "source": "Mlha je hustá, ",
+        "predicted_target": "안개가 짙다."
+    },
+    {
+        "data_index": 462,
+        "source": "pokud je viditelnost nižší než jeden kilometr. ",
+        "predicted_target": "가시거리가 1킬로미터 미만인 경우."
+    },
+    {
+        "data_index": 463,
+        "source": "Včerejší varování před mlhou platí i dnes. ",
+        "predicted_target": "어제 안개 경보는 오늘도 유효합니다."
+    },
+    {
+        "data_index": 464,
+        "source": "Věděli jste, že bezpečnost letadel nejvíc ohrožuje ",
+        "predicted_target": "당신은 비행기 안전이 가장 위험한 것을 알고 계셨나요?"
+    },
+    {
+        "data_index": 465,
+        "source": "ne tajfun nebo blesk, ale právě mlha? ",
+        "predicted_target": "태풍도 번개도 아니라, 그냥 안개인가요?"
+    },
+    {
+        "data_index": 466,
+        "source": "„Každému, kdo ublíží sousedovi, ",
+        "predicted_target": "이웃에게 해를 입히는 모든 사람에게"
+    },
+    {
+        "data_index": 467,
+        "source": "má být ublíženo stejně.“ ",
+        "predicted_target": "\"같은 피해가 입혀져야 합니다.\""
+    },
+    {
+        "data_index": 468,
+        "source": "K nehodám dochází nejčastěji za jasného počasí, ",
+        "predicted_target": "사고는 대개 맑은 날씨에 가장 자주 발생합니다."
+    },
+    {
+        "data_index": 469,
+        "source": "ale úmrtnost je nejvyšší za mlhy. ",
+        "predicted_target": "하지만 사막에서는 사망률이 가장 높습니다."
+    },
+    {
+        "data_index": 470,
+        "source": "Prosím, buďte opatrní. ",
+        "predicted_target": "제발 조심하세요."
+    },
+    {
+        "data_index": 471,
+        "source": "Tady Pak Jondžin. ",
+        "predicted_target": "여기 박종진입니다."
+    },
+    {
+        "data_index": 472,
+        "source": "„Oko za oko, ",
+        "predicted_target": "이빨로 이빨을 갚는다“"
+    },
+    {
+        "data_index": 473,
+        "source": "zub za zub, ",
+        "predicted_target": "이빨 대 이빨"
+    },
+    {
+        "data_index": 474,
+        "source": "zlomenina za zlomeninu.“ ",
+        "predicted_target": "\"골절에 골절이 더해진다.\""
+    },
+    {
+        "data_index": 475,
+        "source": "„Kdo způsobil zranění, nechť trpí stejně.“ ",
+        "predicted_target": "\"부상을 입힌 사람은 같은 고통을 겪으시기를 바랍니다.\""
+    },
+    {
+        "data_index": 476,
+        "source": "Já nevím. ",
+        "predicted_target": "나는 모릅니다."
+    },
+    {
+        "data_index": 477,
+        "source": "Mně to přijde docela fér. ",
+        "predicted_target": "나는 그것이 꽤 공정하다고 생각합니다."
+    },
+    {
+        "data_index": 478,
+        "source": "Co myslíte?",
+        "predicted_target": "당신은 무엇을 생각하십니까?"
+    }
+]

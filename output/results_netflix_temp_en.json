@@ -1,0 +1,2427 @@
+[
+    {
+        "data_index": 0,
+        "source": "Dear Yeon-jin, whom I miss. ",
+        "predicted_target": "친애하는 그리워지는 연진씨,"
+    },
+    {
+        "data_index": 1,
+        "source": "TO YEON-JIN ",
+        "predicted_target": "여영진에게"
+    },
+    {
+        "data_index": 2,
+        "source": "Do you remember ",
+        "predicted_target": "당신은 기억하나요?"
+    },
+    {
+        "data_index": 3,
+        "source": "that I used to hate the summer? ",
+        "predicted_target": "나는 여름을 예전에 싫어했었나요?"
+    },
+    {
+        "data_index": 4,
+        "source": "Thankfully, I moved away before it got even hotter. ",
+        "predicted_target": "다행히도, 더 더워지기 전에 나는 멀리 이사를 갔다."
+    },
+    {
+        "data_index": 5,
+        "source": "I've been organizing my pictures since yesterday, ",
+        "predicted_target": "나는 어제부터 내 사진을 정리하고 있습니다."
+    },
+    {
+        "data_index": 6,
+        "source": "but it's taking a while because they're all such lovely faces. ",
+        "predicted_target": "하지만 그들 모두 아름다운 얼굴이라서 시간이 좀 걸리고 있습니다."
+    },
+    {
+        "data_index": 7,
+        "source": "WEATHERCASTER PARK YEON-JIN ",
+        "predicted_target": "날씨 캐스터 박연진"
+    },
+    {
+        "data_index": 8,
+        "source": "I started picturing in my head ",
+        "predicted_target": "제 머리 속에서 그림을 그리기 시작했습니다."
+    },
+    {
+        "data_index": 9,
+        "source": "that someday ",
+        "predicted_target": "어느 날"
+    },
+    {
+        "data_index": 10,
+        "source": "you might open that front door and walk in here. ",
+        "predicted_target": "당신은 그 앞문을 열고 여기로 들어올 수도 있습니다."
+    },
+    {
+        "data_index": 11,
+        "source": "What is all this? ",
+        "predicted_target": "이게 뭐죠?"
+    },
+    {
+        "data_index": 12,
+        "source": "That's Jae-jun and Sa-ra. These are all pictures of us. ",
+        "predicted_target": "그것은 재준과 사라입니다. 이것들은 우리 모두의 사진입니다."
+    },
+    {
+        "data_index": 13,
+        "source": "Hey, ",
+        "predicted_target": "안녕하세요,"
+    },
+    {
+        "data_index": 14,
+        "source": "who are you anyway? ",
+        "predicted_target": "당신은 누구인가요?"
+    },
+    {
+        "data_index": 15,
+        "source": "It's me, Yeon-jin. It's me. ",
+        "predicted_target": "나야, 연진이야. 나야."
+    },
+    {
+        "data_index": 16,
+        "source": "You really haven't changed at all. ",
+        "predicted_target": "당신은 정말 아무것도 변하지 않았어요."
+    },
+    {
+        "data_index": 17,
+        "source": "You're still so rude. ",
+        "predicted_target": "당신은 여전히 무례합니다."
+    },
+    {
+        "data_index": 18,
+        "source": "You should take your shoes off when entering someone else's home. ",
+        "predicted_target": "당신은 다른 사람의 집에 들어갈 때 신발을 벗어야 합니다."
+    },
+    {
+        "data_index": 19,
+        "source": "You've given me yet another reason to kill you. ",
+        "predicted_target": "당신은 나에게 또 다른 죽이기 위한 이유를 제공했습니다."
+    },
+    {
+        "data_index": 20,
+        "source": "You should have at least recognized me. ",
+        "predicted_target": "당신은 적어도 나를 인식해야 했습니다."
+    },
+    {
+        "data_index": 21,
+        "source": "Kill me? ",
+        "predicted_target": "나를 죽이겠다고?"
+    },
+    {
+        "data_index": 22,
+        "source": "You think you can kill me? ",
+        "predicted_target": "당신은 나를 죽일 수 있다고 생각하나요?"
+    },
+    {
+        "data_index": 23,
+        "source": "Yeah, I will. ",
+        "predicted_target": "응, 할게."
+    },
+    {
+        "data_index": 24,
+        "source": "I'm going to try my hardest to kill you. ",
+        "predicted_target": "나는 너를 죽이기 위해 최선을 다할 것이다."
+    },
+    {
+        "data_index": 25,
+        "source": "So come quickly, Yeon-jin. ",
+        "predicted_target": "그래서 빨리 와, 연진."
+    },
+    {
+        "data_index": 26,
+        "source": "I'm already here. ",
+        "predicted_target": "나 여기 이미 있어."
+    },
+    {
+        "data_index": 27,
+        "source": "Oh! ",
+        "predicted_target": "오!"
+    },
+    {
+        "data_index": 28,
+        "source": "Do you want to hear about ",
+        "predicted_target": "당신은 듣고 싶나요?"
+    },
+    {
+        "data_index": 29,
+        "source": "how I came to be where I am now ",
+        "predicted_target": "내가 지금 있는 곳에 도달한 이유"
+    },
+    {
+        "data_index": 30,
+        "source": "while you're on your way here? ",
+        "predicted_target": "당신이 여기 오는 동안?"
+    },
+    {
+        "data_index": 31,
+        "source": "CHIEF SHIN YEONG-JUN ",
+        "predicted_target": "주임 신영준"
+    },
+    {
+        "data_index": 32,
+        "source": "An official report was filed, ",
+        "predicted_target": "공식 보고서가 제출되었습니다."
+    },
+    {
+        "data_index": 33,
+        "source": "so the guardians have to come and follow the procedure. ",
+        "predicted_target": "그래서 보호자들은 절차를 따라와야 합니다."
+    },
+    {
+        "data_index": 34,
+        "source": "I'll let her off easy, so don't worry. ",
+        "predicted_target": "그녀를 쉽게 놓아줄게, 걱정 마세요."
+    },
+    {
+        "data_index": 35,
+        "source": "Yeah. I'll call you. ",
+        "predicted_target": "응. 나는 너에게 전화할게."
+    },
+    {
+        "data_index": 36,
+        "source": "SUMMER OF 2004 ",
+        "predicted_target": "2004년 여름"
+    },
+    {
+        "data_index": 37,
+        "source": "Park Yeon-jin. ",
+        "predicted_target": "박연진."
+    },
+    {
+        "data_index": 38,
+        "source": "-Yeah? -Why would you bully a friend? ",
+        "predicted_target": "- 응? -친구를 왜 괴롭히니?"
+    },
+    {
+        "data_index": 39,
+        "source": "Don't come back for something like this. ",
+        "predicted_target": "이런 것 때문에 돌아오지 마세요."
+    },
+    {
+        "data_index": 40,
+        "source": "Your mother's nearly here, so go. ",
+        "predicted_target": "당신의 어머니가 거의 여기에 오셨으니 가세요."
+    },
+    {
+        "data_index": 41,
+        "source": "She's not my friend. ",
+        "predicted_target": "그녀는 내 친구가 아니다."
+    },
+    {
+        "data_index": 42,
+        "source": "By the way, Mister. ",
+        "predicted_target": "그런데, 선생님."
+    },
+    {
+        "data_index": 43,
+        "source": "What's going on between you and my mom? ",
+        "predicted_target": "당신과 제 어머니 사이에 무슨 일이 일어나고 있나요?"
+    },
+    {
+        "data_index": 44,
+        "source": "We're friends from middle school. ",
+        "predicted_target": "우리는 중학교 친구입니다."
+    },
+    {
+        "data_index": 45,
+        "source": "Oh, so you're like Son Myeong-o to my mom? ",
+        "predicted_target": "오, 그래서 당신은 제 엄마에게 손명오 같은 존재인 거군요?"
+    },
+    {
+        "data_index": 46,
+        "source": "That's why you helped her with her divorce. ",
+        "predicted_target": "그래서 당신은 그녀의 이혼 문제를 돕게 되었습니다."
+    },
+    {
+        "data_index": 47,
+        "source": "And gathered all the evidence of my dad having an affair. ",
+        "predicted_target": "그리고 아버지가 바람을 피우고 있다는 모든 증거를 수집했습니다."
+    },
+    {
+        "data_index": 48,
+        "source": "I thought you slept with my mom or something. ",
+        "predicted_target": "당신이 제 엄마와 뭔가를 했다고 생각했어요."
+    },
+    {
+        "data_index": 49,
+        "source": "Let's go now! ",
+        "predicted_target": "지금 가자!"
+    },
+    {
+        "data_index": 50,
+        "source": "The deliveries are backed up. Get up and go! ",
+        "predicted_target": "배송이 지연되고 있습니다. 일어나서 출발하세요!"
+    },
+    {
+        "data_index": 51,
+        "source": "You're so embarrassing. I told you not to come! ",
+        "predicted_target": "당신 정말 부끄러워요. 와지 말라고 했잖아요!"
+    },
+    {
+        "data_index": 52,
+        "source": "It's all good if they make up and give each other a hug. ",
+        "predicted_target": "서로 화해하고 서로 안아주면 모든 것이 좋습니다."
+    },
+    {
+        "data_index": 53,
+        "source": "Sa-ra, come on. ",
+        "predicted_target": "사라, 이리 와."
+    },
+    {
+        "data_index": 54,
+        "source": "How can I help you? ",
+        "predicted_target": "어떻게 도와드릴까요?"
+    },
+    {
+        "data_index": 55,
+        "source": "I'm Dong-eun's guardian, her homeroom teacher. ",
+        "predicted_target": "저는 동은의 보호자이자 담임 선생님입니다."
+    },
+    {
+        "data_index": 56,
+        "source": "Hey. You came here with your fucking uniform on?! ",
+        "predicted_target": "\"야. 너 군복 입고 여기 왔어?!\""
+    },
+    {
+        "data_index": 57,
+        "source": "And you called the police over a little prank between friends? ",
+        "predicted_target": "그래서 친구들 사이의 작은 장난 때문에 경찰을 부르셨나요?"
+    },
+    {
+        "data_index": 58,
+        "source": "The vice principal got the call-- ",
+        "predicted_target": "부교장선생님께서 전화를 받았습니다."
+    },
+    {
+        "data_index": 59,
+        "source": "I'll deal with you later. Get up, and let's go! ",
+        "predicted_target": "나중에 너랑 처리할게. 일어나서 가자!"
+    },
+    {
+        "data_index": 60,
+        "source": "Sir, take me too. ",
+        "predicted_target": "좌표, 나도 가주세요."
+    },
+    {
+        "data_index": 61,
+        "source": "I'm an orphan for a week. ",
+        "predicted_target": "저는 일주일 동안 고아입니다."
+    },
+    {
+        "data_index": 62,
+        "source": "My parents are abroad. ",
+        "predicted_target": "내 부모님은 해외에 있습니다."
+    },
+    {
+        "data_index": 63,
+        "source": "-Golfing. -Oh yeah? ",
+        "predicted_target": "- 골프 치는 거야."
+    },
+    {
+        "data_index": 64,
+        "source": "Then you should have called me. ",
+        "predicted_target": "그러면 나한테 전화해야 했어요."
+    },
+    {
+        "data_index": 65,
+        "source": "I'll take him too. ",
+        "predicted_target": "나도 그를 가져갈게요."
+    },
+    {
+        "data_index": 66,
+        "source": "Oh, sure. ",
+        "predicted_target": "오, 그래."
+    },
+    {
+        "data_index": 67,
+        "source": "Hey, I was wondering why you are still here. ",
+        "predicted_target": "\"안녕, 네가 아직 여기 있는 이유가 궁금해서 물어봤어.\""
+    },
+    {
+        "data_index": 68,
+        "source": "So, what about your meals? ",
+        "predicted_target": "그럼, 당신의 식사는 어떻게 되나요?"
+    },
+    {
+        "data_index": 69,
+        "source": "-I have a housekeeper. -Oh, do you? ",
+        "predicted_target": "- 저는 가사부를 두고 있어요."
+    },
+    {
+        "data_index": 70,
+        "source": "I told you today was important. ",
+        "predicted_target": "오늘 중요하다고 말했잖아."
+    },
+    {
+        "data_index": 71,
+        "source": "You've disappointed me so much today. ",
+        "predicted_target": "오늘 너무 실망했어."
+    },
+    {
+        "data_index": 72,
+        "source": "I didn't know I'd end up with the cops. ",
+        "predicted_target": "나는 경찰과 함께 끝날 줄 몰랐다."
+    },
+    {
+        "data_index": 73,
+        "source": "That's why I'm disappointed. ",
+        "predicted_target": "그래서 나는 실망했다."
+    },
+    {
+        "data_index": 74,
+        "source": "You couldn't handle a girl who has nothing. ",
+        "predicted_target": "너는 아무것도 없는 여자를 다룰 수 없어."
+    },
+    {
+        "data_index": 75,
+        "source": "And didn't I tell you to only hang out with Jae-jun? ",
+        "predicted_target": "그리고 내가 당신에게 재준이랑만 어울리라고 말한 거 아니었어요?"
+    },
+    {
+        "data_index": 76,
+        "source": "And Sa-ra, if you're bored. ",
+        "predicted_target": "그리고 사라, 지루하면."
+    },
+    {
+        "data_index": 77,
+        "source": "The shaman told you ",
+        "predicted_target": "The shaman told you: 샤먼이 너에게 말했다."
+    },
+    {
+        "data_index": 78,
+        "source": "to avoid people with O's in their names because they'd bring you bad luck. ",
+        "predicted_target": "이름에 'O'가 들어간 사람들은 운이 나쁘다는 이유로 피하는 것이 좋습니다."
+    },
+    {
+        "data_index": 79,
+        "source": "I'm talking about Son Myeong-o and Choi Hye-jeong! ",
+        "predicted_target": "저는 손명오와 최혜정에 대해 얘기하고 있습니다!"
+    },
+    {
+        "data_index": 80,
+        "source": "Come inside. We're late. ",
+        "predicted_target": "들어와. 우리 늦었어."
+    },
+    {
+        "data_index": 81,
+        "source": "MOON DONG-EUN ",
+        "predicted_target": "문동은"
+    },
+    {
+        "data_index": 82,
+        "source": "Here comes Dong-eun! ",
+        "predicted_target": "동은이 온다!"
+    },
+    {
+        "data_index": 83,
+        "source": "It's the same Dong-eun you get to see every day! ",
+        "predicted_target": "매일 볼 수 있는 같은 동은이야!"
+    },
+    {
+        "data_index": 84,
+        "source": "Welcome, Dong-eun. ",
+        "predicted_target": "환영합니다, 동은씨."
+    },
+    {
+        "data_index": 85,
+        "source": "I'm sorry for bullying you for all this time. ",
+        "predicted_target": "이 모든 시간 동안 널 괴롭혔던 것에 대해 미안해."
+    },
+    {
+        "data_index": 86,
+        "source": "I wanted to apologize. ",
+        "predicted_target": "제가 사과하고 싶습니다."
+    },
+    {
+        "data_index": 87,
+        "source": "You won't be mad anymore, right? ",
+        "predicted_target": "당신은 더 이상 화나지 않을 거죠?"
+    },
+    {
+        "data_index": 88,
+        "source": "There was no need to call the cops about it. You scared us. ",
+        "predicted_target": "그것에 대해 경찰을 부르는 것은 필요하지 않았습니다. 당신은 우리를 놀라게 했습니다."
+    },
+    {
+        "data_index": 89,
+        "source": "Speaking of which, Dong-eun, ",
+        "predicted_target": "그런데, 동은이야."
+    },
+    {
+        "data_index": 90,
+        "source": "can you check, from now on, ",
+        "predicted_target": "이제부터 확인 가능한가요?"
+    },
+    {
+        "data_index": 91,
+        "source": "if the curling iron is hot enough? ",
+        "predicted_target": "만약 컬링 아이론이 충분히 뜨거운지요?"
+    },
+    {
+        "data_index": 92,
+        "source": "Let go! Let me go! ",
+        "predicted_target": "놔주세요! 놓아주세요!"
+    },
+    {
+        "data_index": 93,
+        "source": "This is a crime! Let me go! ",
+        "predicted_target": "이건 범죄야! 나를 놓아줘!"
+    },
+    {
+        "data_index": 94,
+        "source": "Hey, it's just a small favor. How is that a crime? ",
+        "predicted_target": "\"어이, 그냥 작은 부탁일 뿐인데. 왜 범죄가 되는 거야?\""
+    },
+    {
+        "data_index": 95,
+        "source": "She said she's sorry. ",
+        "predicted_target": "그녀는 미안하다고 말했다."
+    },
+    {
+        "data_index": 96,
+        "source": "I just want you to check if it's hot or not. ",
+        "predicted_target": "그냥 뜨거운지 아닌지 확인해 주세요."
+    },
+    {
+        "data_index": 97,
+        "source": "Is it that hot? ",
+        "predicted_target": "그렇게 더워요?"
+    },
+    {
+        "data_index": 98,
+        "source": "I think it's ready. ",
+        "predicted_target": "저는 준비가 된 것 같아요."
+    },
+    {
+        "data_index": 99,
+        "source": "Let's see. ",
+        "predicted_target": "봅시다."
+    },
+    {
+        "data_index": 100,
+        "source": "Somebody help! Please, somebody help me! ",
+        "predicted_target": "누군가 도와주세요! 제발, 누군가 저를 도와주세요!"
+    },
+    {
+        "data_index": 101,
+        "source": "Hey, don't waste your energy! ",
+        "predicted_target": "\"어이, 에너지 낭비하지 마세요!\""
+    },
+    {
+        "data_index": 102,
+        "source": "You can scream all you want, but nobody will find out. ",
+        "predicted_target": "당신이 얼마든지 소리를 지르세요, 그러나 아무도 알아차리지 못할 거예요."
+    },
+    {
+        "data_index": 103,
+        "source": "Nobody's coming for you. ",
+        "predicted_target": "아무도 당신을 찾으러 오지 않았어요."
+    },
+    {
+        "data_index": 104,
+        "source": "The gym teacher gave us the key! ",
+        "predicted_target": "체육 선생님이 우리에게 열쇠를 주셨어요!"
+    },
+    {
+        "data_index": 105,
+        "source": "Why are you doing this to me? ",
+        "predicted_target": "왜 나한테 이런 걸 하는 거야?"
+    },
+    {
+        "data_index": 106,
+        "source": "Why are you doing this to me? ",
+        "predicted_target": "왜 나한테 이런 걸 하는 거야?"
+    },
+    {
+        "data_index": 107,
+        "source": "I'm so sick of hearing that. ",
+        "predicted_target": "나는 그걸 듣는 것에 지겨워해."
+    },
+    {
+        "data_index": 108,
+        "source": "Why do you guys always ask that? ",
+        "predicted_target": "왜 너희들은 항상 그걸 물어보는 거야?"
+    },
+    {
+        "data_index": 109,
+        "source": "'Cause even if I do this, nothing will happen to me, ",
+        "predicted_target": "\"내가 이것을 해도 나에게 아무 일도 일어나지 않을 거야.\""
+    },
+    {
+        "data_index": 110,
+        "source": "and nothing will change for you. ",
+        "predicted_target": "그리고 당신에게는 아무것도 변하지 않을 것입니다."
+    },
+    {
+        "data_index": 111,
+        "source": "Look at you now. ",
+        "predicted_target": "지금 너를 봐."
+    },
+    {
+        "data_index": 112,
+        "source": "You caused a fucking scene at the station, but you're right back here. ",
+        "predicted_target": "당신은 역에서 미친듯이 시끄러운 일을 일으켰지만, 여기 다시 돌아왔군요."
+    },
+    {
+        "data_index": 113,
+        "source": "Has anything changed? ",
+        "predicted_target": "무엇이 바뀌었나요?"
+    },
+    {
+        "data_index": 114,
+        "source": "What I'm saying is, nobody will protect you, Dong-eun. ",
+        "predicted_target": "내가 말하고자 하는 것은, 누구도 당신을 보호하지 않을 것이라는 것입니다, 동은."
+    },
+    {
+        "data_index": 115,
+        "source": "Not the police, not the school, and not even your parents. ",
+        "predicted_target": "경찰도 아니고 학교도 아니며 심지어 당신의 부모님조차도 아닙니다."
+    },
+    {
+        "data_index": 116,
+        "source": "What do you call a person like that? ",
+        "predicted_target": "그런 사람을 어떻게 부르나요?"
+    },
+    {
+        "data_index": 117,
+        "source": "An underdog. ",
+        "predicted_target": "저력이 약한 존재."
+    },
+    {
+        "data_index": 118,
+        "source": "You live at an inn, right? ",
+        "predicted_target": "당신은 여관에서 살고 있나요?"
+    },
+    {
+        "data_index": 119,
+        "source": "I learned about motel living thanks to you. ",
+        "predicted_target": "당신 덕분에 모텔 생활에 대해 배웠습니다."
+    },
+    {
+        "data_index": 120,
+        "source": "Her rent is due every full moon, apparently. ",
+        "predicted_target": "그녀의 월세는 보름달마다 납부해야 한다고 하는 것 같습니다."
+    },
+    {
+        "data_index": 121,
+        "source": "That sounds like a total fairy tale! ",
+        "predicted_target": "그건 전혀 동화같은 이야기 같아요!"
+    },
+    {
+        "data_index": 122,
+        "source": "Wow, Dong-eun must be my fairy godmother. ",
+        "predicted_target": "와, 동은은 내 요정 대모야."
+    },
+    {
+        "data_index": 123,
+        "source": "She even checks the heat so I can do my hair, right? ",
+        "predicted_target": "그녀는 내 머리를 할 수 있도록 온도를 확인해줍니다, 맞죠?"
+    },
+    {
+        "data_index": 124,
+        "source": "Let go! ",
+        "predicted_target": "놓아주세요!"
+    },
+    {
+        "data_index": 125,
+        "source": "Let me go! ",
+        "predicted_target": "나 가게 해주세요!"
+    },
+    {
+        "data_index": 126,
+        "source": "-Let me go! -Shut up! ",
+        "predicted_target": "- 나를 놓아줘! - 입 다물어!"
+    },
+    {
+        "data_index": 127,
+        "source": "-Let go. -Myeong-o, shut her up. ",
+        "predicted_target": "- 놓아줘. -명오, 그녀를 잠재워."
+    },
+    {
+        "data_index": 128,
+        "source": "Let go! ",
+        "predicted_target": "놓아주세요!"
+    },
+    {
+        "data_index": 129,
+        "source": "You're being too loud in a public place. ",
+        "predicted_target": "당신은 공공장소에서 너무 시끄럽습니다."
+    },
+    {
+        "data_index": 130,
+        "source": "Hydrogen peroxide solution? ",
+        "predicted_target": "과산화수소 용액?"
+    },
+    {
+        "data_index": 131,
+        "source": "If you give it to me, I'll do it. ",
+        "predicted_target": "만약 그것을 나에게 주신다면, 내가 할게요."
+    },
+    {
+        "data_index": 132,
+        "source": "There's something on my shirt. ",
+        "predicted_target": "내 셔츠에 뭔가 있어요."
+    },
+    {
+        "data_index": 133,
+        "source": "What's on your shirt? ",
+        "predicted_target": "당신의 셔츠에 뭐가 있나요?"
+    },
+    {
+        "data_index": 134,
+        "source": "Is it blood? ",
+        "predicted_target": "혈액인가요?"
+    },
+    {
+        "data_index": 135,
+        "source": "Please just give me the hydrogen peroxide. ",
+        "predicted_target": "수소과산화물만 주세요."
+    },
+    {
+        "data_index": 136,
+        "source": "What happened? Who did this? ",
+        "predicted_target": "무슨 일이 있었나요? 누가 그랬나요?"
+    },
+    {
+        "data_index": 137,
+        "source": "Did you tell your homeroom teacher? ",
+        "predicted_target": "당신은 당신의 담임 선생님에게 말했나요?"
+    },
+    {
+        "data_index": 138,
+        "source": "I've seen a scar like this before. ",
+        "predicted_target": "나는 이와 같은 흉터를 이전에 본 적이 있습니다."
+    },
+    {
+        "data_index": 139,
+        "source": "If it's too hard for you alone, I'll go with you when you tell him. ",
+        "predicted_target": "당신 혼자에게 너무 어렵다면, 그를 만날 때 함께 갈게요."
+    },
+    {
+        "data_index": 140,
+        "source": "Who was it? ",
+        "predicted_target": "누구였나요?"
+    },
+    {
+        "data_index": 141,
+        "source": "Yeah, Mom. ",
+        "predicted_target": "네, 엄마."
+    },
+    {
+        "data_index": 142,
+        "source": "I'll call you back. ",
+        "predicted_target": "전 당신에게 다시 전화할게요."
+    },
+    {
+        "data_index": 143,
+        "source": "It was me. ",
+        "predicted_target": "나였어."
+    },
+    {
+        "data_index": 144,
+        "source": "It was me last time too. ",
+        "predicted_target": "지난번에도 나였습니다."
+    },
+    {
+        "data_index": 145,
+        "source": "Do you know, Yeon-jin… ",
+        "predicted_target": "\"너 알아, 연진...\""
+    },
+    {
+        "data_index": 146,
+        "source": "that your daughter likes to look at the world upside down? ",
+        "predicted_target": "당신의 딸이 세상을 거꾸로 보는 것을 좋아한다는 것은 사실입니까?"
+    },
+    {
+        "data_index": 147,
+        "source": "Is it because when the world is upside down, ",
+        "predicted_target": "세상이 뒤집힌 것 같아서 그런 건가요?"
+    },
+    {
+        "data_index": 148,
+        "source": "people will understand you even if you can't tell some colors apart? ",
+        "predicted_target": "당신이 몇 가지 색상을 구분하지 못해도 사람들은 당신을 이해할 수 있습니까?"
+    },
+    {
+        "data_index": 149,
+        "source": "Your shoes look just like my mom's. ",
+        "predicted_target": "당신의 신발은 내 엄마 신발과 똑같아 보입니다."
+    },
+    {
+        "data_index": 150,
+        "source": "So it's you. ",
+        "predicted_target": "그래서 너구나."
+    },
+    {
+        "data_index": 151,
+        "source": "Park Yeon-jin's daughter, Ha Ye-sol. ",
+        "predicted_target": "박연진의 딸, 하예솔."
+    },
+    {
+        "data_index": 152,
+        "source": "Do you know my mom? ",
+        "predicted_target": "당신은 제 엄마를 아시나요?"
+    },
+    {
+        "data_index": 153,
+        "source": "I think about her every day. ",
+        "predicted_target": "나는 매일 그녀를 생각합니다."
+    },
+    {
+        "data_index": 154,
+        "source": "Some hatred resembles longing. ",
+        "predicted_target": "어떤 증오는 그리움과 닮아 있다."
+    },
+    {
+        "data_index": 155,
+        "source": "It's impossible to get rid of. ",
+        "predicted_target": "제거할 수 없습니다."
+    },
+    {
+        "data_index": 156,
+        "source": "\"Hatred\"? ",
+        "predicted_target": "\"증오\"?"
+    },
+    {
+        "data_index": 157,
+        "source": "I don't know that word. What does it mean? ",
+        "predicted_target": "그 단어의 뜻을 몰라요. 무슨 뜻인가요?"
+    },
+    {
+        "data_index": 158,
+        "source": "What does hatred mean? ",
+        "predicted_target": "증오란 무엇을 의미합니까?"
+    },
+    {
+        "data_index": 159,
+        "source": "That's so freaking funny! ",
+        "predicted_target": "그거 진짜 웃겨!"
+    },
+    {
+        "data_index": 160,
+        "source": "Huh? What? ",
+        "predicted_target": "어? 뭐?"
+    },
+    {
+        "data_index": 161,
+        "source": "Are you gonna run? ",
+        "predicted_target": "너 달릴 거야?"
+    },
+    {
+        "data_index": 162,
+        "source": "Her eyes that turned darker when she got excited. ",
+        "predicted_target": "그녀가 흥분할 때 어두워지는 눈동자."
+    },
+    {
+        "data_index": 163,
+        "source": "What took you so long? ",
+        "predicted_target": "어째서 이렇게 오래 걸렸나요?"
+    },
+    {
+        "data_index": 164,
+        "source": "I missed you so much. ",
+        "predicted_target": "나는 너무 보고 싶었어."
+    },
+    {
+        "data_index": 165,
+        "source": "Her lips that curled up when she smiled. ",
+        "predicted_target": "그녀가 웃을 때 올라가는 입술."
+    },
+    {
+        "data_index": 166,
+        "source": "Every single strand of her beautiful hair. ",
+        "predicted_target": "그녀 아름다운 머리카락의 모든 하나하나."
+    },
+    {
+        "data_index": 167,
+        "source": "Put all of that together, ",
+        "predicted_target": "그 모든 것을 함께 넣어주세요."
+    },
+    {
+        "data_index": 168,
+        "source": "and that's what hatred is. ",
+        "predicted_target": "그게 바로 증오의 의미입니다."
+    },
+    {
+        "data_index": 169,
+        "source": "She took her shoes off before coming in! ",
+        "predicted_target": "그녀는 들어오기 전에 신발을 벗었습니다!"
+    },
+    {
+        "data_index": 170,
+        "source": "We're real pieces of shit. Shame on us. ",
+        "predicted_target": "우리는 진짜 쓰레기 같은 사람들이다. 우리를 미워하게 될 거야."
+    },
+    {
+        "data_index": 171,
+        "source": "Hey, move. ",
+        "predicted_target": "안녕, 이동해."
+    },
+    {
+        "data_index": 172,
+        "source": "Is this yours? ",
+        "predicted_target": "이것은 당신의 것인가요?"
+    },
+    {
+        "data_index": 173,
+        "source": "I found this in the rice container. ",
+        "predicted_target": "저는 이것을 쌀통에서 찾았습니다."
+    },
+    {
+        "data_index": 174,
+        "source": "-I couldn't believe my own eyes. -Give that back-- ",
+        "predicted_target": "-내 눈을 의심할 수 없었다. -그거 돌려줘--"
+    },
+    {
+        "data_index": 175,
+        "source": "Oh no. ",
+        "predicted_target": "오 안돼."
+    },
+    {
+        "data_index": 176,
+        "source": "Is Dong-eun mad? ",
+        "predicted_target": "동은이 화났나요?"
+    },
+    {
+        "data_index": 177,
+        "source": "Nice catch. ",
+        "predicted_target": "좋은 잡기입니다."
+    },
+    {
+        "data_index": 178,
+        "source": "It's quite a lot! ",
+        "predicted_target": "이것은 꽤 많습니다!"
+    },
+    {
+        "data_index": 179,
+        "source": "Really? That's freaking sad. ",
+        "predicted_target": "정말? 그거 진짜 슬프네."
+    },
+    {
+        "data_index": 180,
+        "source": "Dong-eun. ",
+        "predicted_target": "동은."
+    },
+    {
+        "data_index": 181,
+        "source": "You're so frugal! ",
+        "predicted_target": "당신은 너무 검소해요!"
+    },
+    {
+        "data_index": 182,
+        "source": "Crazy bitch. What the fuck did you take this time? ",
+        "predicted_target": "미친년아. 이번에 뭐를 좀 먹었어?"
+    },
+    {
+        "data_index": 183,
+        "source": "Cold syrup or glue? ",
+        "predicted_target": "콜드 시럽이나 접착제?"
+    },
+    {
+        "data_index": 184,
+        "source": "Stop! Stop doing that! ",
+        "predicted_target": "그만해! 그만해요!"
+    },
+    {
+        "data_index": 185,
+        "source": "Dong-eun is so freaking rich! ",
+        "predicted_target": "동은은 너무나 부유해!"
+    },
+    {
+        "data_index": 186,
+        "source": "-It's about 200,000 won. -Are you paying for all this? ",
+        "predicted_target": "- 약 20만 원 정도입니다."
+    },
+    {
+        "data_index": 187,
+        "source": "You guys are rich! You don't need that money! ",
+        "predicted_target": "너희들은 부자잖아! 그 돈은 필요 없어!"
+    },
+    {
+        "data_index": 188,
+        "source": "I'm begging you. Please give it back, Yeon-jin. ",
+        "predicted_target": "제발, 연진아. 돌려줘."
+    },
+    {
+        "data_index": 189,
+        "source": "I see you're behaving politely now. ",
+        "predicted_target": "지금은 예의 바르게 행동하고 있는 것 같네요."
+    },
+    {
+        "data_index": 190,
+        "source": "Fine. ",
+        "predicted_target": "좋아요."
+    },
+    {
+        "data_index": 191,
+        "source": "I'll give it back. ",
+        "predicted_target": "돌려줄게요."
+    },
+    {
+        "data_index": 192,
+        "source": "But I want you to dance while we're drinking. ",
+        "predicted_target": "하지만 우리가 술을 마시는 동안 당신이 춤을 추길 원해요."
+    },
+    {
+        "data_index": 193,
+        "source": "Then I won't touch this money. How's that? ",
+        "predicted_target": "그럼 이 돈은 건드리지 않을게요. 어때요?"
+    },
+    {
+        "data_index": 194,
+        "source": "-What? -I said, dance! ",
+        "predicted_target": "-뭐? -춤을 춰라고 했어!"
+    },
+    {
+        "data_index": 195,
+        "source": "Singing and dancing go well with drinking, you know. ",
+        "predicted_target": "노래 부르고 춤추는 것은 술과 잘 어울린다는 거 알지?"
+    },
+    {
+        "data_index": 196,
+        "source": "What? You don't want to? ",
+        "predicted_target": "뭐? 원하지 않아?"
+    },
+    {
+        "data_index": 197,
+        "source": "If you really don't want to, there is another way. ",
+        "predicted_target": "당신이 정말로 원치 않는다면, 다른 방법이 있습니다."
+    },
+    {
+        "data_index": 198,
+        "source": "I found this at your place. ",
+        "predicted_target": "당신의 장소에서 이것을 발견했습니다."
+    },
+    {
+        "data_index": 199,
+        "source": "You're such a mess right now. ",
+        "predicted_target": "당신은 지금 정말 엉망이에요."
+    },
+    {
+        "data_index": 200,
+        "source": "But if you try to act all proud, ",
+        "predicted_target": "하지만 만약 자긍심에 차서 행동하려 한다면,"
+    },
+    {
+        "data_index": 201,
+        "source": "then you will become an even bigger mess. ",
+        "predicted_target": "그러면 더 큰 혼란이 될 것입니다."
+    },
+    {
+        "data_index": 202,
+        "source": "So dance. ",
+        "predicted_target": "그래서 춤을 춰봐."
+    },
+    {
+        "data_index": 203,
+        "source": "In humiliation. ",
+        "predicted_target": "굴욕 속에서."
+    },
+    {
+        "data_index": 204,
+        "source": "If you don't want to, fine. ",
+        "predicted_target": "당신이 원치 않는다면 괜찮습니다."
+    },
+    {
+        "data_index": 205,
+        "source": "But seeing you today, Dong-eun… ",
+        "predicted_target": "하지만 오늘 동은을 보니..."
+    },
+    {
+        "data_index": 206,
+        "source": "even your legs are pretty. ",
+        "predicted_target": "너의 다리조차도 아름답다."
+    },
+    {
+        "data_index": 207,
+        "source": "I'll choose the song. ",
+        "predicted_target": "저가 노래를 선택할게요."
+    },
+    {
+        "data_index": 208,
+        "source": "I have so many freaking ringtones. ",
+        "predicted_target": "나는 너무 많은 짜증나는 벨소리를 가지고 있어."
+    },
+    {
+        "data_index": 209,
+        "source": "NURSE'S OFFICE ",
+        "predicted_target": "간호사 사무실"
+    },
+    {
+        "data_index": 210,
+        "source": "TEMPORARILY CLOSED DUE TO RESIGNATION OF THE SCHOOL NURSE ",
+        "predicted_target": "학교 간호사 사임으로 인해 일시적으로 폐쇄됩니다."
+    },
+    {
+        "data_index": 211,
+        "source": "Really? When? ",
+        "predicted_target": "정말요? 언제요?"
+    },
+    {
+        "data_index": 212,
+        "source": "I'll call you later. ",
+        "predicted_target": "나중에 전화할게요."
+    },
+    {
+        "data_index": 213,
+        "source": "Hey, Dong-eun dropped out of school. ",
+        "predicted_target": "\"안녕, 동은이 학교를 중도하였어.\""
+    },
+    {
+        "data_index": 214,
+        "source": "But she wrote all of our names on the withdrawal form. ",
+        "predicted_target": "하지만 그녀는 우리 모두의 이름을 인출 양식에 썼습니다."
+    },
+    {
+        "data_index": 215,
+        "source": "She gave it to the vice principal, who is nagging at our teacher right now. ",
+        "predicted_target": "그녀는 지금 우리 선생님을 괴롭히고 있는 부교장에게 그것을 주었습니다."
+    },
+    {
+        "data_index": 216,
+        "source": "Was it the gym teacher? ",
+        "predicted_target": "체육교사가 그거였니?"
+    },
+    {
+        "data_index": 217,
+        "source": "In the order of who hit her the most? Or alphabetical order? ",
+        "predicted_target": "가장 많이 때린 순서대로? 아니면 알파벳 순서대로?"
+    },
+    {
+        "data_index": 218,
+        "source": "I wonder where my name is on the list. ",
+        "predicted_target": "나의 이름이 목록 어디에 있는지 궁금합니다."
+    },
+    {
+        "data_index": 219,
+        "source": "Can't you read the room? ",
+        "predicted_target": "당신은 분위기를 읽을 수 없나요?"
+    },
+    {
+        "data_index": 220,
+        "source": "Hey! ",
+        "predicted_target": "안녕!"
+    },
+    {
+        "data_index": 221,
+        "source": "Jae-jun! Yeon-jin! ",
+        "predicted_target": "재준! 연진!"
+    },
+    {
+        "data_index": 222,
+        "source": "Come here. ",
+        "predicted_target": "여기로 와."
+    },
+    {
+        "data_index": 223,
+        "source": "You crazy bitch! ",
+        "predicted_target": "당신 미친 여자야!"
+    },
+    {
+        "data_index": 224,
+        "source": "If you want to drop out, do it without a fuss. ",
+        "predicted_target": "만약 중도하차하고 싶다면, 큰 소란 없이 하세요."
+    },
+    {
+        "data_index": 225,
+        "source": "Did you do nothing wrong? Not a single thing? ",
+        "predicted_target": "당신은 아무런 잘못도 하지 않았나요? 조금도?"
+    },
+    {
+        "data_index": 226,
+        "source": "If it's come to this, there's something wrong with you too! ",
+        "predicted_target": "이렇게 된다면, 당신도 문제가 있어요!"
+    },
+    {
+        "data_index": 227,
+        "source": "Come redo your withdrawal form now! ",
+        "predicted_target": "지금 출금 양식을 다시 작성하세요!"
+    },
+    {
+        "data_index": 228,
+        "source": "SCHOOL WITHDRAWAL LETTER ",
+        "predicted_target": "학교 탈퇴 서신"
+    },
+    {
+        "data_index": 229,
+        "source": "If this goes to the principal, ",
+        "predicted_target": "만약 이게 교장님께 전달된다면,"
+    },
+    {
+        "data_index": 230,
+        "source": "it will affect your work evaluation, Mr. Kim. ",
+        "predicted_target": "김씨, 이것은 당신의 업무 평가에 영향을 미칠 것입니다."
+    },
+    {
+        "data_index": 231,
+        "source": "I know that, okay? So please. ",
+        "predicted_target": "나는 그걸 알아, 괜찮아? 그러니 부탁해."
+    },
+    {
+        "data_index": 232,
+        "source": "What is this? ",
+        "predicted_target": "이게 뭐에요?"
+    },
+    {
+        "data_index": 233,
+        "source": "What kind of reason is this? ",
+        "predicted_target": "이게 어떤 이유인가요?"
+    },
+    {
+        "data_index": 234,
+        "source": "School violence. ",
+        "predicted_target": "학교 폭력."
+    },
+    {
+        "data_index": 235,
+        "source": "Yeon-jin, Sa-ra, Jae-jun, Hye-jeong, and Myeong-o are the perps. ",
+        "predicted_target": "연진, 사라, 재준, 혜정 그리고 명오가 범인입니다."
+    },
+    {
+        "data_index": 236,
+        "source": "And you are a bystander. ",
+        "predicted_target": "그리고 당신은 구경꾼입니다."
+    },
+    {
+        "data_index": 237,
+        "source": "Shut that mouth of yours! ",
+        "predicted_target": "너의 입 좀 닥쳐!"
+    },
+    {
+        "data_index": 238,
+        "source": "Did they break your arm or your leg? ",
+        "predicted_target": "그들이 당신의 팔을 부셨나요 아니면 다리를 부셨나요?"
+    },
+    {
+        "data_index": 239,
+        "source": "You're walking around with all your limbs intact. ",
+        "predicted_target": "당신은 모든 팔다리가 무사한 채로 걷고 있습니다."
+    },
+    {
+        "data_index": 240,
+        "source": "How is it violence? ",
+        "predicted_target": "이게 폭력이라고요?"
+    },
+    {
+        "data_index": 241,
+        "source": "How am I a bystander? ",
+        "predicted_target": "나는 어떻게 구경꾼이 되는 거야?"
+    },
+    {
+        "data_index": 242,
+        "source": "You're insane at this point, you know that? ",
+        "predicted_target": "당신은 지금 미친 것 같아요, 그걸 아시나요?"
+    },
+    {
+        "data_index": 243,
+        "source": "It's okay for friends to give each other a slap! ",
+        "predicted_target": "친구끼리 서로 한 대 때려도 괜찮아요!"
+    },
+    {
+        "data_index": 244,
+        "source": "And why ",
+        "predicted_target": "그리고 왜?"
+    },
+    {
+        "data_index": 245,
+        "source": "is it okay to slap a friend? ",
+        "predicted_target": "친구를 때려도 괜찮을까요?"
+    },
+    {
+        "data_index": 246,
+        "source": "What? ",
+        "predicted_target": "뭐?"
+    },
+    {
+        "data_index": 247,
+        "source": "You bragged that your son got into a university of education, right? ",
+        "predicted_target": "당신은 자랑스럽게도 당신의 아들이 교육 대학에 입학했다고 했죠?"
+    },
+    {
+        "data_index": 248,
+        "source": "So, is it okay if your son gets slapped by his friends too-- ",
+        "predicted_target": "그래서, 당신의 아들이 친구들에게도 때림을 당하는 것도 괜찮은 건가요?"
+    },
+    {
+        "data_index": 249,
+        "source": "I've been treating you nicely. ",
+        "predicted_target": "나는 너를 잘 대해왔어."
+    },
+    {
+        "data_index": 250,
+        "source": "And now you're asking for it. ",
+        "predicted_target": "그리고 이제 당신은 그것을 요청하고 있습니다."
+    },
+    {
+        "data_index": 251,
+        "source": "Wow. ",
+        "predicted_target": "와."
+    },
+    {
+        "data_index": 252,
+        "source": "What did you ",
+        "predicted_target": "say?"
+    },
+    {
+        "data_index": 253,
+        "source": "say about ",
+        "predicted_target": "\"Say about\" can be translated to \"얘기해 보세요\" in Korean."
+    },
+    {
+        "data_index": 254,
+        "source": "my son? ",
+        "predicted_target": "내 아들?"
+    },
+    {
+        "data_index": 255,
+        "source": "Say that again. What did you say? ",
+        "predicted_target": "다시 말해봐. 뭐라고 말했어?"
+    },
+    {
+        "data_index": 256,
+        "source": "-Get up! -Don't do this. ",
+        "predicted_target": "일어나세요! - 이러지 마세요."
+    },
+    {
+        "data_index": 257,
+        "source": "Hey. ",
+        "predicted_target": "안녕하세요."
+    },
+    {
+        "data_index": 258,
+        "source": "-Move. What did you say? -Mr. Kim! ",
+        "predicted_target": "-움직여. 뭐라고 말했어? -김 씨!"
+    },
+    {
+        "data_index": 259,
+        "source": "-Get up! What did you say? -Kim! ",
+        "predicted_target": "일어나! 뭐라고 했어? -김!"
+    },
+    {
+        "data_index": 260,
+        "source": "Stop it, now. ",
+        "predicted_target": "지금 그만해."
+    },
+    {
+        "data_index": 261,
+        "source": "Move. Hey! ",
+        "predicted_target": "이동해. 얘!"
+    },
+    {
+        "data_index": 262,
+        "source": "-Mr. Kim! -Get out of the way! ",
+        "predicted_target": "- 김씨! -길을 비켜!"
+    },
+    {
+        "data_index": 263,
+        "source": "-Stop! -Hey! ",
+        "predicted_target": "-멈춰! -야!"
+    },
+    {
+        "data_index": 264,
+        "source": "-Enough! -Get up! ",
+        "predicted_target": "- 충분해! - 일어나세요!"
+    },
+    {
+        "data_index": 265,
+        "source": "NEW WORLD BARBERSHOP ",
+        "predicted_target": "뉴 월드 이발소"
+    },
+    {
+        "data_index": 266,
+        "source": "Ms. Jeong, your phone's ringing. ",
+        "predicted_target": "정씨, 전화벨 울리고 있어요."
+    },
+    {
+        "data_index": 267,
+        "source": "Coming! ",
+        "predicted_target": "다가옵니다!"
+    },
+    {
+        "data_index": 268,
+        "source": "-Oh, come on! -What's wrong? ",
+        "predicted_target": "-오, 제발! -뭐가 문제야?"
+    },
+    {
+        "data_index": 269,
+        "source": "Just give me a second. ",
+        "predicted_target": "잠시만요."
+    },
+    {
+        "data_index": 270,
+        "source": "Gosh! ",
+        "predicted_target": "어머!"
+    },
+    {
+        "data_index": 271,
+        "source": "Yes, hello? ",
+        "predicted_target": "네, 안녕하세요?"
+    },
+    {
+        "data_index": 272,
+        "source": "Yeah. ",
+        "predicted_target": "네."
+    },
+    {
+        "data_index": 273,
+        "source": "I'm her mother. ",
+        "predicted_target": "저는 그녀의 어머니입니다."
+    },
+    {
+        "data_index": 274,
+        "source": "Who is this? ",
+        "predicted_target": "이 사람은 누구인가요?"
+    },
+    {
+        "data_index": 275,
+        "source": "Go ahead and open it. It's all right. ",
+        "predicted_target": "앞으로 가서 열어봐. 괜찮아."
+    },
+    {
+        "data_index": 276,
+        "source": "Oh my! ",
+        "predicted_target": "오 마이!"
+    },
+    {
+        "data_index": 277,
+        "source": "ONE MILLION WON ",
+        "predicted_target": "일백만 원"
+    },
+    {
+        "data_index": 278,
+        "source": "And I need the father's signature here. ",
+        "predicted_target": "여기에 아버지의 서명이 필요합니다."
+    },
+    {
+        "data_index": 279,
+        "source": "Oh, I'm not technically Dong-eun's father. ",
+        "predicted_target": "오, 기술적으로 나는 동은의 아버지가 아니야."
+    },
+    {
+        "data_index": 280,
+        "source": "But I'm like a father to her. ",
+        "predicted_target": "하지만 나는 그녀에게 아버지 같은 존재입니다."
+    },
+    {
+        "data_index": 281,
+        "source": "Then, ",
+        "predicted_target": "그러면,"
+    },
+    {
+        "data_index": 282,
+        "source": "you sign it. ",
+        "predicted_target": "당신이 서명하세요."
+    },
+    {
+        "data_index": 283,
+        "source": "-Oh. -Yes. ",
+        "predicted_target": "-오. -네."
+    },
+    {
+        "data_index": 284,
+        "source": "SETTLEMENT LETTER ",
+        "predicted_target": "합의서"
+    },
+    {
+        "data_index": 285,
+        "source": "Sometimes, legal matters are important, you know. ",
+        "predicted_target": "가끔은, 법적 문제가 중요하다는 걸 알아야 해."
+    },
+    {
+        "data_index": 286,
+        "source": "I don't have a signature. ",
+        "predicted_target": "저는 서명이 없습니다."
+    },
+    {
+        "data_index": 287,
+        "source": "Can I just write my name down? ",
+        "predicted_target": "제 이름만 적어도 되나요?"
+    },
+    {
+        "data_index": 288,
+        "source": "Sure. ",
+        "predicted_target": "그래요."
+    },
+    {
+        "data_index": 289,
+        "source": "You can write your name there, and rewrite the reason for us. ",
+        "predicted_target": "당신은 거기에 이름을 쓸 수 있고, 그 이유를 다시 써 줄 수 있습니다."
+    },
+    {
+        "data_index": 290,
+        "source": "-Reason? -It's really short. ",
+        "predicted_target": "-이유? -정말 짧아요."
+    },
+    {
+        "data_index": 291,
+        "source": "\"Maladjustment.\" ",
+        "predicted_target": "\"부적응.\""
+    },
+    {
+        "data_index": 292,
+        "source": "ROOM FOR RENT ",
+        "predicted_target": "빈 방 있음"
+    },
+    {
+        "data_index": 293,
+        "source": "Did you forget something? ",
+        "predicted_target": "뭔가를 잊으셨나요?"
+    },
+    {
+        "data_index": 294,
+        "source": "Hey, you didn't know? ",
+        "predicted_target": "\"어이, 너 몰랐어?\""
+    },
+    {
+        "data_index": 295,
+        "source": "Your mom cleared the room out this morning. ",
+        "predicted_target": "당신의 엄마가 이번 아침에 방을 청소했습니다."
+    },
+    {
+        "data_index": 296,
+        "source": "My goodness. This is your school uniform. ",
+        "predicted_target": "제발. 이것이 너의 교복이야."
+    },
+    {
+        "data_index": 297,
+        "source": "I'm sure she will call you. ",
+        "predicted_target": "나는 그녀가 당신에게 전화할 것이라고 확신합니다."
+    },
+    {
+        "data_index": 298,
+        "source": "She's your mom, after all. ",
+        "predicted_target": "그녀는 결국 당신의 엄마입니다."
+    },
+    {
+        "data_index": 299,
+        "source": "Goodness. ",
+        "predicted_target": "선하다."
+    },
+    {
+        "data_index": 300,
+        "source": "SPACE GROUP OF KOREA ARCHITECTURE AND SOCIETY ",
+        "predicted_target": "한국 건축과 사회의 공간 그룹"
+    },
+    {
+        "data_index": 301,
+        "source": "REASON FOR WITHDRAWAL: MALADJUSTMENT ",
+        "predicted_target": "철회 사유: 적응 장애"
+    },
+    {
+        "data_index": 302,
+        "source": "GUARDIAN: JEONG MI-HEE ",
+        "predicted_target": "가디언: 정미희"
+    },
+    {
+        "data_index": 303,
+        "source": "GIMBAP HEAVEN ",
+        "predicted_target": "김밥 천국"
+    },
+    {
+        "data_index": 304,
+        "source": "My scars were itching, ",
+        "predicted_target": "나의 상처가 가려웠다."
+    },
+    {
+        "data_index": 305,
+        "source": "and my stomach was in excruciating pain from period cramps. ",
+        "predicted_target": "그리고 내 복부는 생리통으로 인해 괴로웠다."
+    },
+    {
+        "data_index": 306,
+        "source": "At that moment, I had this thought. ",
+        "predicted_target": "그 순간, 나는 이 생각을 했다."
+    },
+    {
+        "data_index": 307,
+        "source": "\"The pharmacy doesn't open until 9 a.m., ",
+        "predicted_target": "약국은 오전 9시까지 열리지 않습니다."
+    },
+    {
+        "data_index": 308,
+        "source": "and the Han River is just a 20-minute walk away.\" ",
+        "predicted_target": "한강까지 걸어서 20분 거리입니다."
+    },
+    {
+        "data_index": 309,
+        "source": "\"The water will be cold, ",
+        "predicted_target": "물은 차갑게 될 것입니다."
+    },
+    {
+        "data_index": 310,
+        "source": "and then everything will be okay.\" ",
+        "predicted_target": "그러면 모든 것이 괜찮아질 거예요."
+    },
+    {
+        "data_index": 311,
+        "source": "\"The scars won't itch anymore.\" ",
+        "predicted_target": "\"상처가 더 이상 가렵지 않을 거예요.\""
+    },
+    {
+        "data_index": 312,
+        "source": "\"What more could I want?\" ",
+        "predicted_target": "\"내가 더 바라는 게 뭐가 있겠어?\""
+    },
+    {
+        "data_index": 313,
+        "source": "\"This is probably the right thing.\" ",
+        "predicted_target": "이것은 아마도 옳은 일일 것입니다."
+    },
+    {
+        "data_index": 314,
+        "source": "Does Dong-eun ",
+        "predicted_target": "안녕하세요, 저는 인공지능 어시스턴트입니다. \"Does Dong-eun\"은 불완전한 문장이므로 번역이 불가능합니다. 정확한 문장을 입력해 주세요. 감사합니다."
+    },
+    {
+        "data_index": 315,
+        "source": "have a pretty face? ",
+        "predicted_target": "예쁜 얼굴이 있나요?"
+    },
+    {
+        "data_index": 316,
+        "source": "From the guys' point of view. ",
+        "predicted_target": "남자들의 시각에서."
+    },
+    {
+        "data_index": 317,
+        "source": "I don't know. ",
+        "predicted_target": "저는 모르겠어요."
+    },
+    {
+        "data_index": 318,
+        "source": "Don't try to act dumb. ",
+        "predicted_target": "멍청하게 굴지 마세요."
+    },
+    {
+        "data_index": 319,
+        "source": "Maybe it's not just her face that's pretty. ",
+        "predicted_target": "어쩌면 그녀의 얼굴뿐만 아니라 다른 것들도 예쁠지도 모릅니다."
+    },
+    {
+        "data_index": 320,
+        "source": "Then why didn't you just cover her mouth? Move. You're heavy. ",
+        "predicted_target": "그럼 그녀 입을 막으면 안 되었나요? 움직이세요. 무거워요."
+    },
+    {
+        "data_index": 321,
+        "source": "Where are you going? To get more drinks? ",
+        "predicted_target": "당신은 어디로 가고 있나요? 더 많은 음료수를 가져오러 가는 건가요?"
+    },
+    {
+        "data_index": 322,
+        "source": "Tell Hye-jeong to go. ",
+        "predicted_target": "혜정에게 가라고 말해주세요."
+    },
+    {
+        "data_index": 323,
+        "source": "I would if it were for drinks. ",
+        "predicted_target": "음료수를 위해서라면 할 수 있어요."
+    },
+    {
+        "data_index": 324,
+        "source": "It's the morning prayer service. ",
+        "predicted_target": "아침 기도 예배입니다."
+    },
+    {
+        "data_index": 325,
+        "source": "Damn. The geezer will get rid of my studio if I don't come right away. Fuck! ",
+        "predicted_target": "젠장. 내가 지금 당장 가지 않으면 그 노인은 내 스튜디오를 없앨 거야. 젠장!"
+    },
+    {
+        "data_index": 326,
+        "source": "It's a special service for seniors. I had to stop him from calling you guys. ",
+        "predicted_target": "노인들을 위한 특별한 서비스입니다. 그가 여러분들에게 전화를 걸지 못하도록 막았습니다."
+    },
+    {
+        "data_index": 327,
+        "source": "Hey. Do you want him to stop calling you? ",
+        "predicted_target": "안녕. 그가 전화하지 않게 하고 싶으세요?"
+    },
+    {
+        "data_index": 328,
+        "source": "How many white shirts do you have? ",
+        "predicted_target": "당신은 흰색 셔츠를 몇 벌 가지고 있나요?"
+    },
+    {
+        "data_index": 329,
+        "source": "-Amen! -Amen! ",
+        "predicted_target": "아멘! -아멘!"
+    },
+    {
+        "data_index": 330,
+        "source": "Jesus Christ said, ",
+        "predicted_target": "예수 그리스도께서 말씀하셨습니다."
+    },
+    {
+        "data_index": 331,
+        "source": "\"If anyone slaps you on the right cheek, turn to them the other cheek also.\" ",
+        "predicted_target": "만일 누구든지 당신의 오른쪽 볼을 때리면, 왼쪽 볼도 돌려주세요."
+    },
+    {
+        "data_index": 332,
+        "source": "-Amen! -Amen! ",
+        "predicted_target": "아멘! -아멘!"
+    },
+    {
+        "data_index": 333,
+        "source": "\"And if anyone wants to take your shirt, hand over your coat as well.\" ",
+        "predicted_target": "\"누구든지 당신의 옷을 가져가고 싶다면, 당신의 외투도 함께 내어주십시오.\""
+    },
+    {
+        "data_index": 334,
+        "source": "-Amen! -Amen! ",
+        "predicted_target": "아멘! -아멘!"
+    },
+    {
+        "data_index": 335,
+        "source": "\"If anyone forces you to go one mile, go with them two miles--\" ",
+        "predicted_target": "\"만일 누구든지 당신을 일 마일 가도록 강요한다면, 당신은 그들과 함께 이 마일을 두 배로 가야합니다 -\""
+    },
+    {
+        "data_index": 336,
+        "source": "-Amen! -Amen! ",
+        "predicted_target": "아멘! -아멘!"
+    },
+    {
+        "data_index": 337,
+        "source": "-We believe in you, Lord. -Amen. ",
+        "predicted_target": "우리는 주님을 믿습니다. -아멘."
+    },
+    {
+        "data_index": 338,
+        "source": "Sa-ra's dad's voice cracking was hilarious. ",
+        "predicted_target": "사라 아빠 목소리가 깨지는 건 웃겨웠어요."
+    },
+    {
+        "data_index": 339,
+        "source": "You should have seen his face! ",
+        "predicted_target": "당신은 그의 얼굴을 봤어야 했어요!"
+    },
+    {
+        "data_index": 340,
+        "source": "Maybe he was shocked that there's nothing to see? ",
+        "predicted_target": "그는 아무것도 볼 게 없다는 것에 충격을 받았을지도 모릅니다."
+    },
+    {
+        "data_index": 341,
+        "source": "Hey! ",
+        "predicted_target": "안녕!"
+    },
+    {
+        "data_index": 342,
+        "source": "-I want chocolate milk. -Huh? ",
+        "predicted_target": "- 저는 초콜릿 우유를 원해요. - 뭐라고요?"
+    },
+    {
+        "data_index": 343,
+        "source": "Okay. ",
+        "predicted_target": "알겠습니다."
+    },
+    {
+        "data_index": 344,
+        "source": "-What about you guys? -Hye-jeong! ",
+        "predicted_target": "- 너희들은 어떻게 되나요? - 혜정!"
+    },
+    {
+        "data_index": 345,
+        "source": "I told you, I'm fasting this week! ",
+        "predicted_target": "나는 말했잖아, 이번 주에 금식 중이야!"
+    },
+    {
+        "data_index": 346,
+        "source": "Ugh, damn it. ",
+        "predicted_target": "우웩, 젠장."
+    },
+    {
+        "data_index": 347,
+        "source": "Hey, Gyeong-ran. ",
+        "predicted_target": "안녕, 경란."
+    },
+    {
+        "data_index": 348,
+        "source": "How long you gonna cry for? All night? ",
+        "predicted_target": "얼마나 오래 울 거야? 밤새도록?"
+    },
+    {
+        "data_index": 349,
+        "source": "Stop weeping, you fucking bitch. ",
+        "predicted_target": "울지 마, 개년아."
+    },
+    {
+        "data_index": 350,
+        "source": "Fuck, you're so loud. Damn it. ",
+        "predicted_target": "씨발, 너무 시끄러워. 젠장."
+    },
+    {
+        "data_index": 351,
+        "source": "Gyeong-ran. ",
+        "predicted_target": "경란."
+    },
+    {
+        "data_index": 352,
+        "source": "Scream again, and I'll shove this in your mouth. ",
+        "predicted_target": "다시 소리지르면, 이걸 네 입에 밀어 넣을 거야."
+    },
+    {
+        "data_index": 353,
+        "source": "What is she doing here? ",
+        "predicted_target": "그녀는 여기서 뭐하고 있어요?"
+    },
+    {
+        "data_index": 354,
+        "source": "She must be nuts. She came here by choice? ",
+        "predicted_target": "그녀는 미쳤나봐요. 자발적으로 여기에 왔다고요?"
+    },
+    {
+        "data_index": 355,
+        "source": "Wow, Dong-eun. ",
+        "predicted_target": "와, 동은."
+    },
+    {
+        "data_index": 356,
+        "source": "I missed you so much. ",
+        "predicted_target": "나는 너무 보고싶었어."
+    },
+    {
+        "data_index": 357,
+        "source": "You dropped out without even a word. ",
+        "predicted_target": "너는 말도 없이 중도하차했다."
+    },
+    {
+        "data_index": 358,
+        "source": "Your dream that you wrote on your Cyworld page. ",
+        "predicted_target": "당신이 사이월드 페이지에 쓴 꿈."
+    },
+    {
+        "data_index": 359,
+        "source": "\"A wise mother and a kind wife.\" Did you mean it? ",
+        "predicted_target": "\"현명한 어머니와 친절한 아내.\" 그렇게 말씀하신 건가요?"
+    },
+    {
+        "data_index": 360,
+        "source": "Really? Did you really write that? ",
+        "predicted_target": "정말요? 정말로 그걸 썼어요?"
+    },
+    {
+        "data_index": 361,
+        "source": "Where the hell is this coming from? ",
+        "predicted_target": "이게 어디서 나온 거야?"
+    },
+    {
+        "data_index": 362,
+        "source": "Sa-ra wants to paint. ",
+        "predicted_target": "사라는 그림을 그리고 싶어합니다."
+    },
+    {
+        "data_index": 363,
+        "source": "Jae-jun will inherit a golf course. Hye-jeong, a flight attendant. ",
+        "predicted_target": "재준은 골프 코스를 상속받을 것입니다. 혜정은 승무원입니다."
+    },
+    {
+        "data_index": 364,
+        "source": "Is your dream to be a wise mother and a kind wife? ",
+        "predicted_target": "당신의 꿈은 현명한 어머니이자 친절한 아내가 되는 것입니까?"
+    },
+    {
+        "data_index": 365,
+        "source": "What the fuck? ",
+        "predicted_target": "뭐라고?"
+    },
+    {
+        "data_index": 366,
+        "source": "Why did you leave me out? ",
+        "predicted_target": "왜 나를 배제했어?"
+    },
+    {
+        "data_index": 367,
+        "source": "I have a dream too. I'm going to be a millionaire. ",
+        "predicted_target": "나도 꿈이 있어요. 백만장자가 될 거예요."
+    },
+    {
+        "data_index": 368,
+        "source": "I don't have a dream, Dong-eun. ",
+        "predicted_target": "저는 꿈이 없어요, 동은아."
+    },
+    {
+        "data_index": 369,
+        "source": "Dreams are for people like you. ",
+        "predicted_target": "꿈은 당신과 같은 사람들을 위한 것입니다."
+    },
+    {
+        "data_index": 370,
+        "source": "You, him, and her. ",
+        "predicted_target": "당신, 그와 그녀."
+    },
+    {
+        "data_index": 371,
+        "source": "I pay you to work for me, after your dreams come true. ",
+        "predicted_target": "당신의 꿈이 이루어진 후에 나는 당신에게 일하도록 돈을 지불합니다."
+    },
+    {
+        "data_index": 372,
+        "source": "I don't need a dream. I need a job. ",
+        "predicted_target": "나는 꿈이 필요하지 않아. 일이 필요해."
+    },
+    {
+        "data_index": 373,
+        "source": "A job that's not too shabby, you know? ",
+        "predicted_target": "그럭저럭 괜찮은 일이야, 알지?"
+    },
+    {
+        "data_index": 374,
+        "source": "Then I'll probably get married when I'm young and pretty. ",
+        "predicted_target": "그러면 아마 젊고 예쁠 때 결혼할 것 같아요."
+    },
+    {
+        "data_index": 375,
+        "source": "Pick out an eligible bachelor, and have one or two kids. ",
+        "predicted_target": "자격 있는 독신남을 골라 한 두 명의 아이를 가지세요."
+    },
+    {
+        "data_index": 376,
+        "source": "Then I'll live happily ever after. ",
+        "predicted_target": "그러면 나는 영원히 행복하게 살 것이다."
+    },
+    {
+        "data_index": 377,
+        "source": "There isn't a word that summarizes all of that, right? ",
+        "predicted_target": "그것을 모두 요약하는 단어는 없겠죠?"
+    },
+    {
+        "data_index": 378,
+        "source": "Yeah, there is. ",
+        "predicted_target": "네, 있어요."
+    },
+    {
+        "data_index": 379,
+        "source": "\"Bullshit.\" ",
+        "predicted_target": "\"개소리.\""
+    },
+    {
+        "data_index": 380,
+        "source": "Shut the fuck up, Sa-ra. ",
+        "predicted_target": "시발, 사라 좀 조용히 해."
+    },
+    {
+        "data_index": 381,
+        "source": "So scary! ",
+        "predicted_target": "무서워!"
+    },
+    {
+        "data_index": 382,
+        "source": "So? ",
+        "predicted_target": "그래요?"
+    },
+    {
+        "data_index": 383,
+        "source": "What's your dream? ",
+        "predicted_target": "당신의 꿈은 무엇인가요?"
+    },
+    {
+        "data_index": 384,
+        "source": "You. ",
+        "predicted_target": "당신."
+    },
+    {
+        "data_index": 385,
+        "source": "Starting today, my dream is you. ",
+        "predicted_target": "오늘부터 내 꿈은 너야."
+    },
+    {
+        "data_index": 386,
+        "source": "I really hope… ",
+        "predicted_target": "저는 정말로 바라요..."
+    },
+    {
+        "data_index": 387,
+        "source": "we'll see each other again. ",
+        "predicted_target": "우리 다시 만날 거야."
+    },
+    {
+        "data_index": 388,
+        "source": "SUMMER OF 2006 ",
+        "predicted_target": "2006년 여름"
+    },
+    {
+        "data_index": 389,
+        "source": "Quit the monkey business. Put it away! ",
+        "predicted_target": "원숭이짓 그만해. 저리 치워!"
+    },
+    {
+        "data_index": 390,
+        "source": "Hey, don't be too hard on her! ",
+        "predicted_target": "\"어이, 그녀한테 너무 엄격하지 마세요!\""
+    },
+    {
+        "data_index": 391,
+        "source": "She has so many cigarette burn scars on her arms and legs. ",
+        "predicted_target": "그녀의 팔과 다리에는 너무 많은 담배 연기 상처가 있습니다."
+    },
+    {
+        "data_index": 392,
+        "source": "Do your job. ",
+        "predicted_target": "일하세요."
+    },
+    {
+        "data_index": 393,
+        "source": "GED EXAM RESULTS ",
+        "predicted_target": "GED 시험 결과"
+    },
+    {
+        "data_index": 394,
+        "source": "MOON DONG-EUN YOU HAVE PASSED THE GED EXAM ",
+        "predicted_target": "문동은, GED 시험을 통과하셨습니다."
+    },
+    {
+        "data_index": 395,
+        "source": "FALL OF 2006 ",
+        "predicted_target": "2006년 가을"
+    },
+    {
+        "data_index": 396,
+        "source": "2005 SCHOOL YEAR MATH SECTION ",
+        "predicted_target": "2005 학년도 수학 섹션"
+    },
+    {
+        "data_index": 397,
+        "source": "2006 SCHOOL YEAR SCHOLASTIC ABILITY TEST ",
+        "predicted_target": "2006학년도 학력평가능력시험"
+    },
+    {
+        "data_index": 398,
+        "source": "FALL OF 2007 ",
+        "predicted_target": "2007년 가을"
+    },
+    {
+        "data_index": 399,
+        "source": "FALL OF 2008 ",
+        "predicted_target": "2008년 가을"
+    },
+    {
+        "data_index": 400,
+        "source": "Excuse me. ",
+        "predicted_target": "실례합니다."
+    },
+    {
+        "data_index": 401,
+        "source": "I'm not trying to distract you. ",
+        "predicted_target": "나는 너를 산만하게 하려는 게 아니야."
+    },
+    {
+        "data_index": 402,
+        "source": "I'm 20 years old, and my name is Koo Seong-hee. ",
+        "predicted_target": "저는 20살이고, 제 이름은 구성희입니다."
+    },
+    {
+        "data_index": 403,
+        "source": "I heard you're leaving the factory at the end of this month. ",
+        "predicted_target": "저는 이번 달 말에 공장을 떠나신다는 소식을 들었습니다."
+    },
+    {
+        "data_index": 404,
+        "source": "So I just wanted to strike up a conversation with you before you quit. ",
+        "predicted_target": "그래서 당신이 그만둘 때 전 당신과 대화를 나누고 싶었습니다."
+    },
+    {
+        "data_index": 405,
+        "source": "Same here. Thank you. ",
+        "predicted_target": "저도요. 감사합니다."
+    },
+    {
+        "data_index": 406,
+        "source": "For what? ",
+        "predicted_target": "무엇을 위해?"
+    },
+    {
+        "data_index": 407,
+        "source": "Walking on your tiptoes. ",
+        "predicted_target": "발끝으로 걷기."
+    },
+    {
+        "data_index": 408,
+        "source": "You saw that? ",
+        "predicted_target": "그거 보셨어요?"
+    },
+    {
+        "data_index": 409,
+        "source": "Anyway, congratulations! ",
+        "predicted_target": "어쨌든, 축하해요!"
+    },
+    {
+        "data_index": 410,
+        "source": "I heard that you got into college. ",
+        "predicted_target": "당신이 대학에 입학했다는 소식을 들었습니다."
+    },
+    {
+        "data_index": 411,
+        "source": "Wow, you must be so happy. ",
+        "predicted_target": "와우, 너 정말 행복할 거야."
+    },
+    {
+        "data_index": 412,
+        "source": "You can go on group dates and get a boyfriend in college! ",
+        "predicted_target": "대학에서 그룹 데이트를 하고 남자친구를 만들 수 있어요!"
+    },
+    {
+        "data_index": 413,
+        "source": "That's not really what I'm looking for. ",
+        "predicted_target": "그게 내가 찾는 것은 아니에요."
+    },
+    {
+        "data_index": 414,
+        "source": "I'm going to college ",
+        "predicted_target": "저는 대학에 갈 예정입니다."
+    },
+    {
+        "data_index": 415,
+        "source": "'cause there's somewhere I really need to go. ",
+        "predicted_target": "'가야 할 곳이 정말 있어요.'"
+    },
+    {
+        "data_index": 416,
+        "source": "Where do you need to go? ",
+        "predicted_target": "어디로 가야 하나요?"
+    },
+    {
+        "data_index": 417,
+        "source": "Samsung? ",
+        "predicted_target": "삼성?"
+    },
+    {
+        "data_index": 418,
+        "source": "Hyundai? ",
+        "predicted_target": "현대?"
+    },
+    {
+        "data_index": 419,
+        "source": "I wasn't joking, Yeon-jin. ",
+        "predicted_target": "나는 농담이 아니었어, 연진."
+    },
+    {
+        "data_index": 420,
+        "source": "Ever since that day, my only dream has always been you. ",
+        "predicted_target": "그날 이후로, 내 꿈은 항상 당신이었습니다."
+    },
+    {
+        "data_index": 421,
+        "source": "SUNGWU TEXTILE ",
+        "predicted_target": "성우 텍스타일"
+    },
+    {
+        "data_index": 422,
+        "source": "SPRING OF 2009 ",
+        "predicted_target": "2009년 봄"
+    },
+    {
+        "data_index": 423,
+        "source": "I'll have the strongest coffee that you have, please. Cold. ",
+        "predicted_target": "제일 강한 커피 한 잔 주세요. 차가운 걸로요."
+    },
+    {
+        "data_index": 424,
+        "source": "I'm quite sleepy. ",
+        "predicted_target": "저는 꽤 졸립습니다."
+    },
+    {
+        "data_index": 425,
+        "source": "Would you like an iced Americano with an extra shot? ",
+        "predicted_target": "추가 샷이 들어간 아이스 아메리카노를 원하시나요?"
+    },
+    {
+        "data_index": 426,
+        "source": "Sure. I'll have that. ",
+        "predicted_target": "그래요. 그거 주세요."
+    },
+    {
+        "data_index": 427,
+        "source": "It will be served at the pickup area. ",
+        "predicted_target": "픽업 지역에서 제공됩니다."
+    },
+    {
+        "data_index": 428,
+        "source": "Next customer, please. ",
+        "predicted_target": "다음 손님, 부탁드립니다."
+    },
+    {
+        "data_index": 429,
+        "source": "One iced Americano and one warm mocha latte, please. ",
+        "predicted_target": "아이스 아메리카노 하나와 따뜻한 모카 라떼 하나 주세요."
+    },
+    {
+        "data_index": 430,
+        "source": "I want a ton of whipped cream and chocolate drizzle on the latte. ",
+        "predicted_target": "라떼 위에 톤의 생크림과 초콜릿 드리즐을 올려주세요."
+    },
+    {
+        "data_index": 431,
+        "source": "We'll be paying separately, but please put both stamps on my coupon. ",
+        "predicted_target": "우리는 따로 지불할 거에요, 하지만 쿠폰에 두 개의 스탬프를 모두 찍어주세요."
+    },
+    {
+        "data_index": 432,
+        "source": "I knew you'd say that, so I didn't bring my wallet. ",
+        "predicted_target": "그래 말할 줄 알았어, 그래서 지갑은 안 가져왔어."
+    },
+    {
+        "data_index": 433,
+        "source": "-Dammit. -Drinks will be served at the pickup area. ",
+        "predicted_target": "-젠장. -음료는 픽업 지역에서 제공됩니다."
+    },
+    {
+        "data_index": 434,
+        "source": "Next customer, please. ",
+        "predicted_target": "다음 손님, 부탁드립니다."
+    },
+    {
+        "data_index": 435,
+        "source": "Gather a mountain to make some dust, you know. ",
+        "predicted_target": "산을 모아서 먼지를 만들어봐, 너 알잖아."
+    },
+    {
+        "data_index": 436,
+        "source": "Yeo-jeong. ",
+        "predicted_target": "여정."
+    },
+    {
+        "data_index": 437,
+        "source": "-Gather coupons to make you rich. -How does that happen? ",
+        "predicted_target": "-쿠폰을 모아 부자가 되세요. -어떻게 그럴 수 있나요?"
+    },
+    {
+        "data_index": 438,
+        "source": "Help a little brother. ",
+        "predicted_target": "작은 형제를 도와주세요."
+    },
+    {
+        "data_index": 439,
+        "source": "You always say that and make me pay. Please act like my senior. ",
+        "predicted_target": "당신은 항상 그렇게 말하고 나에게 대가를 치르게 만듭니다. 제 선배답게 행동해주세요."
+    },
+    {
+        "data_index": 440,
+        "source": "Okay. ",
+        "predicted_target": "알겠습니다."
+    },
+    {
+        "data_index": 441,
+        "source": "At least you can get rich with the coupons. ",
+        "predicted_target": "적어도 쿠폰으로 부자가 될 수 있어요."
+    },
+    {
+        "data_index": 442,
+        "source": "Coupons can't make me rich. ",
+        "predicted_target": "쿠폰은 나를 부자로 만들 수 없어요."
+    },
+    {
+        "data_index": 443,
+        "source": "How is that possible? ",
+        "predicted_target": "그게 어떻게 가능해요?"
+    },
+    {
+        "data_index": 444,
+        "source": "WELCOME, FRESHMEN OF 2009! ",
+        "predicted_target": "2009년 신입생 여러분, 환영합니다!"
+    },
+    {
+        "data_index": 445,
+        "source": "EUICHEON UNIVERSITY OF EDUCATION ",
+        "predicted_target": "유이천교육대학교"
+    },
+    {
+        "data_index": 446,
+        "source": "Welcome! ",
+        "predicted_target": "환영합니다!"
+    },
+    {
+        "data_index": 447,
+        "source": "I thought about it every day, Yeon-jin. ",
+        "predicted_target": "나는 매일 그것에 대해 생각했어, 연진."
+    },
+    {
+        "data_index": 448,
+        "source": "Where should I reunite with you? ",
+        "predicted_target": "당신과 어디에서 만나야 할까요?"
+    },
+    {
+        "data_index": 449,
+        "source": "You have it all. ",
+        "predicted_target": "당신은 모든 것을 가지고 있습니다."
+    },
+    {
+        "data_index": 450,
+        "source": "You are scared of no one. ",
+        "predicted_target": "당신은 아무도 두려워하지 않습니다."
+    },
+    {
+        "data_index": 451,
+        "source": "So, where is the place that will make you scared, ",
+        "predicted_target": "그래서, 당신을 무서워하게 만들 장소는 어디인가요?"
+    },
+    {
+        "data_index": 452,
+        "source": "even for a second? ",
+        "predicted_target": "한초라도?"
+    },
+    {
+        "data_index": 453,
+        "source": "I couldn't think of any other place. ",
+        "predicted_target": "다른 곳을 생각할 수 없었다."
+    },
+    {
+        "data_index": 454,
+        "source": "My own gymnasium of 60 square meters. ",
+        "predicted_target": "나만의 60제곱미터 체육관."
+    },
+    {
+        "data_index": 455,
+        "source": "HA YE-SOL ",
+        "predicted_target": "하예솔"
+    },
+    {
+        "data_index": 456,
+        "source": "Wow, that's just like a fairy tale. ",
+        "predicted_target": "와, 그건 마치 동화 같아요."
+    },
+    {
+        "data_index": 457,
+        "source": "Now I'm going to wield a very soft, very bright curling iron. ",
+        "predicted_target": "이제 나는 매우 부드럽고 매우 밝은 컬링 아이론을 사용할 것입니다."
+    },
+    {
+        "data_index": 458,
+        "source": "The one that you cherish the most, Yeon-jin. ",
+        "predicted_target": "당신이 가장 소중히 여기는 사람, 연진."
+    },
+    {
+        "data_index": 459,
+        "source": "Is my story like a fairy tale? ",
+        "predicted_target": "내 이야기는 동화 같나요?"
+    },
+    {
+        "data_index": 460,
+        "source": "Yes, but I don't like it because my mom's not the main character. ",
+        "predicted_target": "네, 그러나 제 어머니가 주인공이 아니라서 좋아하지 않습니다."
+    },
+    {
+        "data_index": 461,
+        "source": "What makes you think that? ",
+        "predicted_target": "당신은 왜 그렇게 생각하나요?"
+    },
+    {
+        "data_index": 462,
+        "source": "Because my mom is rich. ",
+        "predicted_target": "나의 엄마가 부유하기 때문에."
+    },
+    {
+        "data_index": 463,
+        "source": "And the main characters are all poor. ",
+        "predicted_target": "그리고 주인공들은 모두 가난합니다."
+    },
+    {
+        "data_index": 464,
+        "source": "No, you're wrong. ",
+        "predicted_target": "아니요, 당신이 틀렸습니다."
+    },
+    {
+        "data_index": 465,
+        "source": "In this story, your mother is the main character. ",
+        "predicted_target": "이 이야기에서는 당신의 어머니가 주인공입니다."
+    },
+    {
+        "data_index": 466,
+        "source": "Because this story isn't a fairy tale. ",
+        "predicted_target": "이 이야기는 동화가 아니기 때문입니다."
+    },
+    {
+        "data_index": 467,
+        "source": "It's a fable. ",
+        "predicted_target": "이것은 우화입니다."
+    },
+    {
+        "data_index": 468,
+        "source": "Fog is considered dense ",
+        "predicted_target": "안개는 농도가 높다고 여겨집니다."
+    },
+    {
+        "data_index": 469,
+        "source": "when it has a visibility range of less than one kilometer. ",
+        "predicted_target": "1킬로미터 미만의 가시 거리가 있을 때."
+    },
+    {
+        "data_index": 470,
+        "source": "A fog warning was issued yesterday, and it is still in effect today. ",
+        "predicted_target": "어제 안개 경보가 발령되었고, 오늘도 유효합니다."
+    },
+    {
+        "data_index": 471,
+        "source": "Did you know that the main hindrance to safe flights ",
+        "predicted_target": "당신은 안전한 비행의 주요 장애물이 무엇인지 알고 계셨나요?"
+    },
+    {
+        "data_index": 472,
+        "source": "is not typhoons or lightning, but fog? ",
+        "predicted_target": "태풍이나 번개가 아니라 안개인가요?"
+    },
+    {
+        "data_index": 473,
+        "source": "\"Anyone who injures their neighbor ",
+        "predicted_target": "이웃을 다치게 하는 사람은 누구든지"
+    },
+    {
+        "data_index": 474,
+        "source": "is to be injured in the same manner.\" ",
+        "predicted_target": "\"같은 방식으로 부상을 입는 것입니다.\""
+    },
+    {
+        "data_index": 475,
+        "source": "Although the number of accidents is the highest on clear days, ",
+        "predicted_target": "맑은 날씨에 사고 발생 건수가 가장 높지만,"
+    },
+    {
+        "data_index": 476,
+        "source": "the fatality rate is the highest on foggy days. ",
+        "predicted_target": "안개 낀 날의 사망률이 가장 높습니다."
+    },
+    {
+        "data_index": 477,
+        "source": "Please be careful of the fog. This is Park Yeon-jin. ",
+        "predicted_target": "안개 조심하세요. 박연진입니다."
+    },
+    {
+        "data_index": 478,
+        "source": "\"Eye for eye, ",
+        "predicted_target": "tooth for tooth.\""
+    },
+    {
+        "data_index": 479,
+        "source": "tooth for tooth… ",
+        "predicted_target": "이빨에 대한 이빨..."
+    },
+    {
+        "data_index": 480,
+        "source": "…fracture for fracture.\" ",
+        "predicted_target": "\"...뼈 골절에 대한 뼈 골절.\""
+    },
+    {
+        "data_index": 481,
+        "source": "\"The one who inflicted the injury must suffer the same.\" ",
+        "predicted_target": "\"상처를 입힌 사람은 같은 고통을 받아야 한다.\""
+    },
+    {
+        "data_index": 482,
+        "source": "I don't know. ",
+        "predicted_target": "저는 모르겠어요."
+    },
+    {
+        "data_index": 483,
+        "source": "That sounds... ",
+        "predicted_target": "그건..."
+    },
+    {
+        "data_index": 484,
+        "source": "too fair to me.",
+        "predicted_target": "나에게 너무 공정해."
+    }
+]

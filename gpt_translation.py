@@ -82,15 +82,13 @@ def main(args):
 
     textdic = dict()
     
-    textdic = parseTranscript(source_content, textdic, args.trg_lang)
+    textdic = parseTranscript(source_content, textdic, args.source_lang)
     
     # read prompt
     with open(args.prompt_dir, 'r') as f:
         prompt = f.read()
         
-    logger = logging.getLogger('logger')        
-    logger.info("***** Prompt *****")
-    logger.info(prompt) 
+
  
     # load model
     model = GPT3(args)
@@ -103,10 +101,15 @@ def main(args):
     generate_fail = 0
     start_index = 0
     
+    logger = logging.getLogger('logger')        
+    logger.info("***** Prompt *****")
+    logger.info(prompt) 
+    
     for i in textdic.keys():
-        input_line = textdic[i][args.trg_lang]
+        input_line = textdic[i][args.source_lang]
         # put the data into the prompt
-        model_input = prompt % (input_line)
+        model_input = prompt % (args.source_lang, input_line)
+        #logger.info(model_input) 
         pred_string = model.chatgpt_inference(model_input,args.debug_mode) 
             
         # log 파일 저장
@@ -122,7 +125,7 @@ def main(args):
         })
                 
         # save the results
-        with open(os.path.join(args.output_dir, 'results_{}_{}.json'.format(args.trg_lang,args.memo)), 'w', encoding='utf-8') as f:
+        with open(os.path.join(args.output_dir, 'results_{}_{}.json'.format(args.source_lang,args.memo)), 'w', encoding='utf-8') as f:
             json.dump(predict, f, indent=4,ensure_ascii=False)    
     
         start_index += 1

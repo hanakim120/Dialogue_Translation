@@ -68,8 +68,8 @@ def load_parser_and_args():
     parser.add_argument('--data_mode', type=str, default='test')
     parser.add_argument('--debug_mode', action="store_true", help="use debug_mode")
     # path
-    parser.add_argument('--output_dir', type=str, default='/home/hana/nas2/PKG/AG_model/output/', required=True)
-    parser.add_argument('--base_dir', type=str, default='/home/hana/nas2/Dialog_Translation/')
+    parser.add_argument('--output_dir', type=str, default='/home/hana/nas2/Dialogue_Translation/output/', required=True)
+    parser.add_argument('--base_dir', type=str, default='/home/hana/nas2/Dialogue_Translation/')
     parser.add_argument('--log_dir', type=str, default='./log')
     parser.add_argument('--data_path', type=str, default='./data')
     parser.add_argument('--prompt_dir', type=str, default='./prompts')
@@ -82,7 +82,7 @@ def load_parser_and_args():
     parser.add_argument('--stop_seq', type=str, default='\n')
     parser.add_argument('--key_org', type=str, default='tutoring')
     parser.add_argument('--memo', type=str)
-    parser.add_argument('--trg_lang',type=str, default='en')
+    parser.add_argument('--source_lang',type=str, default='English')
     parser.add_argument('--src_file_path',type=str)
     parser.add_argument('--trg_file_path',type=str)
     

@@ -1,1 +1,1 @@
-Translate the following Czech text to Korean: %s
+Translate the following %s text to Korean: %s

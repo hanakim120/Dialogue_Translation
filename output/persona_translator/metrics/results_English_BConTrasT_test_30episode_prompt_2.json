@@ -1,0 +1,8 @@
+{
+    "bleu_mean": 43.454406074148935,
+    "bert_score_P_mean": 0.9057847261428833,
+    "bert_score_R_mean": 0.9057624936103821,
+    "bert_score_F1_mean": 0.905547022819519,
+    "gen_error_count": 12,
+    "total_data_count": 30
+}

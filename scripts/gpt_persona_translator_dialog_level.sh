@@ -1,0 +1,2 @@
+# BConTrasT prepro whole
+python ./persona_translator.py --model_type chat-gpt --data_path ./data/ --output_dir ./output/persona_translator/whole_dialog_0shot --prompt_dir ./prompts/persona_tranlator/chat_prompt_1.txt --manual_split_num 500 --persona_ws 500 --extract_persona_type dialog-level --data_dir ./BConTrasT/prepro/test_30episode.json --memo BConTrasT_test_30episode_test --dialog_type conversation --source_lang English --target_lang German --max_token 1024

@@ -1,0 +1,47 @@
+The following is a conversation between a agent and a customer with multiple turns. Please read the conversation and provide persona sentences that describe the personal characteristics of each speaker that can be inferred explicitly or implicitly from the conversation. If there are no personal characteristics to be inferred, please indicate "NO_PERSONA". (Extract the persona sentences as many as possible)
+
+Example 1:
+Conversation: 
+"agent: I need some advice on where to go on vacation, have you been anywhere lately?\ncustomer: I have been all over the world. I'm military.\nagent: That is good you have alot of travel experience\ncustomer: Sure do. And a lot of experience blowing things up! Haha. Bora bora is nice.\nagent: I've been working non stop crazy hours and need a break.\ncustomer: The best breaks are spent with cute cuddly kittens.\nagent: Bora bora sounds nice, you have been there before?\ncustomer: Nope... Just sounds nice, and repetitive. Bora... Bora. Ha!\nagent: Kittens really? I rather be at the beach.\ncustomer: Only if the beach was covered in kittens!\nagent: That would be a sight to see.\ncustomer: Or maybe brownies... I love chocolate.\nagent: I love brownies too but I haven't quite perfected mine yet.\ncustomer: Well I'm available to taste test!"
+agent's persona sentences: 
+'I've been working a lot of extra hours. I want to break from my non-stop work.', 'I like going to the beach.', 'I love brownies.'
+customer's persona sentences: 
+"I served or serve in the military. I've traveled the world.", "I've blown things up.", "I've never been to Bora Bora.", 'I love chocolate.'
+
+Example 2:
+Conversation: 
+"agent: Hello! What are you up to?\ncustomer: I'm reading for a exam I've and you?\nagent: Just finished playing with my three dogs here at home.\ncustomer: Cool 3 dogs. I'll get a dog when I'm done with school next september\nagent: Sounds good. What kind will you get?\ncustomer: A pit bull. I'll get him when I find a teaching job\nagent: I teach drums and I play them really well.\ncustomer: Wow my brother is in a heavy medal group and goes all around the world\nagent: That's awesome! Do you play any sports?\ncustomer: No I really do not have time. College is hard lol\nagent: I bet. I work out, even though I don't like to, but need to.\ncustomer: My mom and dad work out a lot. They came here when I was 5\nagent: I work out to stay healthy. I've a problem with my blood sugar.\ncustomer: Oh wow I hoe you stay healthy for a long time\nagent: Thanks. I check it everyday.\ncustomer: That is cool so what else do you like?"
+agent's persona sentences:
+'I have three dogs.', 'I play the drums.', "I don't like to work out.", 'I have a problem with my blood sugar.', 'I need to take my blood sugar everyday.'
+customer's persona sentences:
+'I have an exam soon.', "I don't have any dogs. I finish school in September.", 'I plan on getting a job in teaching.', 'I am in college.'
+
+Example 3:
+Conversation: 
+"agent: Hi, how are you doing today?\ncustomer: Hi, I'm great. What do you do for a living?\nagent: I am a housekeeper for three families in my area. What do you do?\ncustomer: I am an environmental engineer, and have outdoor hobbies.\nagent: I love the outdoors. Especially in the fall and winter. Do you ice skate?\ncustomer: I like hiking. I take photos in the outdoors.\nagent: Cool, I was never good at photography. I'll bet you take great pics on the hiking trails.\ncustomer: Yes, and it is a good hobby for an environmental engineer.\nagent: True. Do you like gardening? I love growing my own vegetables.\ncustomer: I've never done that. It sounds fun and healthy though.\nagent: Yes, I love eating healthy foods.\ncustomer: Do you have family? I'm single."
+agent's persona sentences:
+'I work as a housekeeper.', 'I love the outdoors.', 'I grow my own vegetables.', 'I love eating healthy food.'
+customer's persona sentences:
+'I am an environmental engineer. I have outdoor hobbies.', 'I like hiking. I take photos of the outdoors.', 'I am single.'
+
+Example 4:
+Conversation: 
+"agent: Hi, how are you today?\ncustomer: Fine, thanks! Just getting up, though. Went to bed late.\nagent: Good morning, then! Hot enough for you? Ca not wait for winter.\ncustomer: Yeah, I like winter, though I do not go outside much anyway.\nagent: Same here, its a little hard with my wheelchair.\ncustomer: Oh, I imagine so! I do not have a wheelchair, but I'm in school. Computer engineering.\nagent: Interesting! With cooler weather coming you gotta watch out for colds. Don't wanna miss class!\ncustomer: Yeah, that is true. I've a real passion for computer programming.\nagent: I always stock up on vitamin c, just in case. Programming sounds like fun!\ncustomer: Its fun. I hope to use it to open my own company with my best friend.\nagent: Friends are the best! My vestie actually bought me a car last year. Totally surprised me!\ncustomer: That's awesome! My best friend is actually gay, but I'm not.\nagent: Love is love! Good luck with your business venture!\ncustomer: I agree! And thanks very much. I hope it works out.\nagent: Just keep to it one thing my disability has taught me is to never stop trying!\ncustomer: That's extremely inspirational, thanks."
+agent's persona sentences:
+'I like winter.', 'I use a wheelchair.', 'I stock up on Vitamin C.', 'My friend bought me a car.', 'I am disabled.'
+customer's persona sentences: 
+I like winter.', 'I am in school for Computer Engineering.', 'I like computer programming.', 'I want to open my own company.', 'My best friend is gay. I am not gay.'
+
+Example 5:
+Conversation:
+"agent: Hello. What are you doing? I am cooking, I love to cook!\ncustomer: Hello, I am trying to fix my friends computer right now\nagent: Ah. One of my 3 children broke mine.\ncustomer: Ok, well I fix computers. What is your favorite dish to cook?\nagent: Italian. I immigrated when I was 14\ncustomer: I love italian food. I was raised on a farm that my family owns\nagent: My family doesn't speak english very well, but I speak italian and english.\ncustomer: Ok, my family encouraged me to love meat. We like to grill a lot.\nagent: Nice. I was married off when I was younger. My spouse loves to grill as well.\ncustomer: Married off? Wow... How do you feel about that?\nagent: I felt angry about it. But that was then and this is now.\ncustomer: Ok glad you can turn a negative into a positive\nagent: I'm a realist by nature. Change what you can and accept what you can not.\ncustomer: I could not agree more"
+agent's persona sentences:
+'I cook. I love to cook.', 'I have 3 children.', 'I am italian. My favorite food is italian. I immigrated when I was 14.', "My family don't speak english very well.  I speak english and italian.", 'I married young. My spouse likes to grill.', 'I am a realist.'
+customer's persona sentences:
+'I fix computers.', 'I like italian food. I was raised on a farm. My family owns a farm.', 'My family like to grill.'
+
+Example 6:
+Conversation:
+"%s"
+agent's persona sentences:
+customer's persona sentences:

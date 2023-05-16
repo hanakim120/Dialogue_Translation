@@ -1,0 +1,1 @@
+python gpt_translation.py --model_type chat-gpt --data_path ./data --output_dir ./output --prompt_dir ./prompts/chat_prompt_1.txt --key_org tutoring --memo netflix_chat_1_temp --src_file_path ./data/81562874-en_scene1.srt --trg_file_path ./data/81562874-ko_scene1.srt --source_lang English --input_type whole_dialog --manual_split_num 10

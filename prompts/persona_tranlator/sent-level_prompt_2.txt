@@ -1,0 +1,1 @@
+Translate the following %s text to Korean: %s

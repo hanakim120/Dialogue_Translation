@@ -1,0 +1,87 @@
+The following is a dialogue context and current turn in the scene between a Agent and a Customer. Read the given dialogue context and summarize it in persona sentences that include the personal characteristics of each speaker that can be known explicitly or implicitly from the current turn of utterances. If there are no personal characteristics to be extracted as a persona sentence, indicate "NO_PERSONA".
+
+Example 1:
+Dialogue context:
+""
+Current turn:
+"Agent: I need some advice on where to go on vacation, have you been anywhere lately?\nCustomer: I have been all over the world. I'm military."
+Agent's persona sentences: I am interested in traveling and want recommendations from someone with experience.
+Customer's persona sentences: I have extensive travel experience due to my military background and may be able to offer advice on vacation destinations.
+
+Example 2:
+Dialogue context:
+"Agent: I need some advice on where to go on vacation, have you been anywhere lately?\nCustomer: I have been all over the world. I'm military."
+Current turn:
+"Agent: That is good you have a lot of travel experience\nCustomer: Sure do. And a lot of experience blowing things up! Haha. Bora bora is nice."
+Agent's persona sentences: NO_PERSONA
+Customer's persona sentences: I have a sense of humor and may make jokes related to my military background. I also recommend Bora Bora as a vacation destination.
+
+Example 3:
+Dialogue context:
+"Agent: I need some advice on where to go on vacation, have you been anywhere lately?\nCustomer: I have been all over the world. I'm military.\nAgent: That is good you have alot of travel experience\nCustomer: Sure do. And a lot of experience blowing things up! Haha. Bora bora is nice."
+Current turn:
+"Agent: I've been working non stop crazy hours and need a break.\nCustomer: The best breaks are spent with cute cuddly kittens."
+Agent's persona sentences: I am overworked and in need of a break.
+Customer's persona sentences: I have a preference for cute and cuddly animals as a way to relax and unwind. I like kittens.
+
+Example 4:
+Dialogue context:
+"Agent: Hi, how are you doing today?\nCustomer: Hi, I'm great. What do you do for a living?\nAgent: I am a housekeeper for three families in my area. What do you do?\nCustomer: I am an environmental engineer, and have outdoor hobbies."
+Current turn:
+"Agent: I love the outdoors. Especially in the fall and winter. Do you ice skate?\nCustomer: I like hiking. I take photos in outdoors."
+Agent's persona sentences: I enjoy spending time outdoors, particularly during the fall and winter months. 
+Customer's persona sentences: I like hiking. I take photos of the outdoors.
+
+Example 5:
+Dialogue context:
+"Agent: Ave. Was there any homework for tomorrow?\nCustomer: hello :D Of course, as always :D\nAgent: What exactly?\nCustomer: I'm not sure so I'll check it for you in 20 minutes."
+Current turn:
+"Agent: Cool, thanks. Sorry I couldn't be there, but I was busy as fuck...my stupid boss as always was trying to piss me off\nCustomer: No problem, what did he do this time?"
+Agent's persona sentences: I didn't show up for class due to some work issues with my boss. I have a busy life, and my boss often annoys me at work.
+Customer's persona sentences: I am helpful and curious about other people's problems.
+
+Example 6:
+Dialogue context:
+""
+Current turn:
+"Agent: did you find the job yet?\nCustomer: no bro, still unemployed :D?"
+Agent's persona sentences: NO_PERSONA
+Customer's persona sentences: I am still unemployed. 
+
+Example 7:
+Dialogue context:
+"Agent: I need my hair cut. When can I come? I've got some time on Thursday and Friday.\nCustomer: Lucia! My dear! Are you sure? After all, you had your hairstyle done a week ago. What's the matter? Don't you like it?"
+Current turn:
+"Agent: I like it very much and I regret to lose it. But I'm changing the job and my hair must be shorter...\nCustomer: I see. You'll tell me everything in detail once you're here, in my beauty salon. I suggest Friday at 3 p.m. Is it fine for you?"
+Agent's persona sentences: I like my hairsyle very much and I regret to lose it. i need a new hairstyle due to a change of work. my hair must be shorter than now.
+Customer's persona sentences: I work in a beauty salon. I make an appointment for 3 p.m. on a Friday.
+
+Example 8:
+Dialogue context:
+"Agent: do you want to go to the museum tonight? there's a great exhibition about cubism going on\nCustomer: you know i hate museums! lol i'd rather watch paint dry hahaha?"
+Current turn:
+"Agent: i know you hate museums... BUT tonight special\nCustomer: why?"
+Agent's persona sentences: I like to go to museums and see the exhibits.
+Customer's persona sentences: I have a strong dislike for museums and prefer more entertaining activities.
+
+Example 9:
+Dialogue context:
+""
+Current turn:
+"Agent: I just got my 1st credit card!\nCustomer: Well, congrats and sorry!"
+Agent's persona sentences: I am excited to have obtained my first credit card.
+Customer's persona sentences: I have a sense of humor and may make a joke about the potential dangers of having a credit card.
+
+Example 10:
+Dialogue context:
+""
+Current turn:
+"Agent: I'm really nervous about my job interview tomorrow.\nCustomer: Don't worry, you'll be fine. I always get nervous too, but then I just remind myself to be confident."
+Agent's persona sentences: I feel anxious about job interviews.
+Customer's persona sentences: I tend to be nervous too, but I try to stay confident.
+
+Example 11:
+Dialogue context: 
+"%s"
+Current turn: 
+"%s"

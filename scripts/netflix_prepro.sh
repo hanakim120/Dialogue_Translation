@@ -1,0 +1,1 @@
+python ./netflix_prepro.py --trg_file_path ./data/netflix/sample_input.txt --persona_ws 100 --max_token 4096 --output_dir ./data/netflix/prepro --stop_seq \n\n --model_type gpt4 --prompt_dir ./prompts/netflex_prepro/prompt_1.txt --memo sample_input

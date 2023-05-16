@@ -1,0 +1,5 @@
+Convert the %s dialogue into %s format while preserving the natural flow of the conversation.
+
+English dialogue:
+%s
+German dialogue:

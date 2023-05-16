@@ -1,1 +1,0 @@
-Convert the English dialogue into Korean format while preserving the natural flow of the conversation.

@@ -1,0 +1,2 @@
+# BConTrasT prepro context_and_current_turn
+python ./persona_translator.py --model_type chat-gpt --data_path ./data/ --output_dir ./output/persona_translator/context_turn_0shot --data_mode test --prompt_dir ./prompts/persona_tranlator/chat_prompt_1.txt --manual_split_num 20 --persona_ws 10 --extract_persona_type utter-level --data_dir ./BConTrasT/prepro/test.json --memo BConTrasT_turn --dialog_type conversation --stop_seq \n --source_lang English

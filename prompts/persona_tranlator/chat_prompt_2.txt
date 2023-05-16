@@ -1,0 +1,11 @@
+Convert the %s dialogue into %s format to satisfy both conditions.
+condition 1: Translate the dialogue while preserving the natural flow of the conversation. 
+condition 2: Personalize the translation based on the persona of each speaker given. 
+
+%s dialogue:
+%s
+Agent's persona:
+%s
+Customer's persona:
+%s
+%s dialogue:

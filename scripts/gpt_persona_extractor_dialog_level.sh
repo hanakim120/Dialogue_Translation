@@ -1,0 +1,2 @@
+# BConTrasT prepro dialog-level
+python ./persona_extractor.py --model_type chat-gpt --data_path ./data/ --output_dir ./output/persona_extractor/whole_dialog_5shot --prompt_dir ./prompts/persona_extractor/BConTrast_whole_dialog_1.txt --manual_split_num 500 --persona_ws 500 --extract_persona_type dialog-level --data_dir /BConTrasT/prepro/test_30episode.json --memo BConTrasT_test30_whole --dialog_type conversation --stop_seq \n\n

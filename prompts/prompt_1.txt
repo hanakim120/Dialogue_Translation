@@ -1,0 +1,9 @@
+I have a Netflix subtitle file that has the following format. Each component consists of three lines: a line number, time stamp and subtitle text. In the subtitle text, it often contains [ text ].
+Step 1: A scene is a series of consecutive dialogues. When there are a different context of conversations or with new set of speakers, the scene has changed. Break up the conversations by the scene and print it out with the scene id.
+Step 2: In each scene's dialogue, infer from the dialogue and annotate speakers based on the conversation turns. Some speaker's name is annotated in the square bracket and some speakers are not annotated. Use that information. When the speaker name isn't explicitly annotated, use an alphabet, for example [Speaker A].
+Step 3: Annotate each line with the inferred speaker name. Then re-format the data and print it in the following format:
+<Scene id>
+<line number>
+[speaker name] subtitle text
+
+%s
